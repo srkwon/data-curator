@@ -1,0 +1,5771 @@
+[
+  {
+    "original": [
+      "경제/산업",
+      "경제",
+      "산업"
+    ],
+    "normalized": "산업"
+  },
+  {
+    "original": [
+      "금융/증권",
+      "금융",
+      "증권"
+    ],
+    "normalized": "금융"
+  },
+  {
+    "original": [
+      "무료"
+    ],
+    "normalized": "free"
+  },
+  {
+    "original": [
+      "고정"
+    ],
+    "normalized": "fixed"
+  },
+  {
+    "original": [
+      "협의"
+    ],
+    "normalized": "negotiable"
+  },
+  {
+    "original": [
+      "범위"
+    ],
+    "normalized": "범위"
+  },
+  {
+    "original": [
+      "에러"
+    ],
+    "normalized": "에러"
+  },
+  {
+    "original": [
+      "xlsx",
+      "XLSX"
+    ],
+    "normalized": "xlsx"
+  },
+  {
+    "original": [
+      "csv",
+      "CSV"
+    ],
+    "normalized": "csv"
+  },
+  {
+    "original": [
+      "pdf",
+      "PDF"
+    ],
+    "normalized": "pdf"
+  },
+  {
+    "original": [
+      "STD_YM",
+      "STRD_YM",
+      "기준연월",
+      "BASE_YYMM",
+      "BS_YR_MON",
+      "﻿STD_YM"
+    ],
+    "normalized": "기준년월"
+  },
+  {
+    "original": [
+      "BZRNO",
+      "사업자번호"
+    ],
+    "normalized": "사업자등록번호"
+  },
+  {
+    "original": [
+      "BZM_NM",
+      "업체명",
+      "company_name"
+    ],
+    "normalized": "업체명"
+  },
+  {
+    "original": [
+      "PLCB_LCPLC_ADDR",
+      "address",
+      "주소",
+      "시도명",
+      "시군구명",
+      "읍면동명",
+      "행정동명"
+    ],
+    "normalized": "주소"
+  },
+  {
+    "original": [
+      "GAS_GM_GRD"
+    ],
+    "normalized": "가스등급"
+  },
+  {
+    "original": [
+      "예금이력"
+    ],
+    "normalized": "예금이력"
+  },
+  {
+    "original": [
+      "예금여력"
+    ],
+    "normalized": "예금여력"
+  },
+  {
+    "original": [
+      "상권방문데이터"
+    ],
+    "normalized": "상권방문데이터"
+  },
+  {
+    "original": [
+      "조제"
+    ],
+    "normalized": "조제"
+  },
+  {
+    "original": [
+      "시럽검색어"
+    ],
+    "normalized": "시럽검색어"
+  },
+  {
+    "original": [
+      "소비전국대장비율"
+    ],
+    "normalized": "소비전국대장비율"
+  },
+  {
+    "original": [
+      "광역시"
+    ],
+    "normalized": "광역시"
+  },
+  {
+    "original": [
+      "인포그래픽"
+    ],
+    "normalized": "인포그래픽"
+  },
+  {
+    "original": [
+      "202104"
+    ],
+    "normalized": "202104"
+  },
+  {
+    "original": [
+      "재산분할"
+    ],
+    "normalized": "재산분할"
+  },
+  {
+    "original": [
+      "매출"
+    ],
+    "normalized": "매출"
+  },
+  {
+    "original": [
+      "배터리성능"
+    ],
+    "normalized": "배터리성능"
+  },
+  {
+    "original": [
+      "부산"
+    ],
+    "normalized": "부산"
+  },
+  {
+    "original": [
+      "경제지표"
+    ],
+    "normalized": "경제지표"
+  },
+  {
+    "original": [
+      "메모리"
+    ],
+    "normalized": "메모리"
+  },
+  {
+    "original": [
+      "아카데미"
+    ],
+    "normalized": "아카데미"
+  },
+  {
+    "original": [
+      "인천광역시"
+    ],
+    "normalized": "인천광역시"
+  },
+  {
+    "original": [
+      "비보행"
+    ],
+    "normalized": "비보행"
+  },
+  {
+    "original": [
+      "202206"
+    ],
+    "normalized": "202206"
+  },
+  {
+    "original": [
+      "202303"
+    ],
+    "normalized": "202303"
+  },
+  {
+    "original": [
+      "다주택자비율"
+    ],
+    "normalized": "다주택자비율"
+  },
+  {
+    "original": [
+      "대출정보"
+    ],
+    "normalized": "대출정보"
+  },
+  {
+    "original": [
+      "카드"
+    ],
+    "normalized": "카드"
+  },
+  {
+    "original": [
+      "이미지"
+    ],
+    "normalized": "이미지"
+  },
+  {
+    "original": [
+      "충북"
+    ],
+    "normalized": "충북"
+  },
+  {
+    "original": [
+      "설관련"
+    ],
+    "normalized": "설관련"
+  },
+  {
+    "original": [
+      "시청률"
+    ],
+    "normalized": "시청률"
+  },
+  {
+    "original": [
+      "울산중구업종분포정보"
+    ],
+    "normalized": "울산중구업종분포정보"
+  },
+  {
+    "original": [
+      "소비"
+    ],
+    "normalized": "소비"
+  },
+  {
+    "original": [
+      "기후"
+    ],
+    "normalized": "기후"
+  },
+  {
+    "original": [
+      "커피전문점"
+    ],
+    "normalized": "커피전문점"
+  },
+  {
+    "original": [
+      "사용자"
+    ],
+    "normalized": "사용자"
+  },
+  {
+    "original": [
+      "202302"
+    ],
+    "normalized": "202302"
+  },
+  {
+    "original": [
+      "202103"
+    ],
+    "normalized": "202103"
+  },
+  {
+    "original": [
+      "시도별"
+    ],
+    "normalized": "시도별"
+  },
+  {
+    "original": [
+      "lguplus"
+    ],
+    "normalized": "lguplus"
+  },
+  {
+    "original": [
+      "전해질"
+    ],
+    "normalized": "전해질"
+  },
+  {
+    "original": [
+      "광주광역시"
+    ],
+    "normalized": "광주광역시"
+  },
+  {
+    "original": [
+      "202305"
+    ],
+    "normalized": "202305"
+  },
+  {
+    "original": [
+      "온라인소비"
+    ],
+    "normalized": "온라인소비"
+  },
+  {
+    "original": [
+      "고양이"
+    ],
+    "normalized": "고양이"
+  },
+  {
+    "original": [
+      "금융"
+    ],
+    "normalized": "금융"
+  },
+  {
+    "original": [
+      "등록금"
+    ],
+    "normalized": "등록금"
+  },
+  {
+    "original": [
+      "전기차솔루션"
+    ],
+    "normalized": "전기차솔루션"
+  },
+  {
+    "original": [
+      "백화점"
+    ],
+    "normalized": "백화점"
+  },
+  {
+    "original": [
+      "BMS"
+    ],
+    "normalized": "BMS"
+  },
+  {
+    "original": [
+      "이혼소송"
+    ],
+    "normalized": "이혼소송"
+  },
+  {
+    "original": [
+      "데이터저널리즘"
+    ],
+    "normalized": "데이터저널리즘"
+  },
+  {
+    "original": [
+      "23년"
+    ],
+    "normalized": "23년"
+  },
+  {
+    "original": [
+      "경기"
+    ],
+    "normalized": "경기"
+  },
+  {
+    "original": [
+      "201907"
+    ],
+    "normalized": "201907"
+  },
+  {
+    "original": [
+      "기술"
+    ],
+    "normalized": "기술"
+  },
+  {
+    "original": [
+      "지역경제"
+    ],
+    "normalized": "지역경제"
+  },
+  {
+    "original": [
+      "강아지"
+    ],
+    "normalized": "강아지"
+  },
+  {
+    "original": [
+      "온누리스토어"
+    ],
+    "normalized": "온누리스토어"
+  },
+  {
+    "original": [
+      "11월"
+    ],
+    "normalized": "11월"
+  },
+  {
+    "original": [
+      "제약바이오"
+    ],
+    "normalized": "제약바이오"
+  },
+  {
+    "original": [
+      "멤버쉽검색어"
+    ],
+    "normalized": "멤버쉽검색어"
+  },
+  {
+    "original": [
+      "성별정보"
+    ],
+    "normalized": "성별정보"
+  },
+  {
+    "original": [
+      "노화"
+    ],
+    "normalized": "노화"
+  },
+  {
+    "original": [
+      "반려동물"
+    ],
+    "normalized": "반려동물"
+  },
+  {
+    "original": [
+      "온실가스"
+    ],
+    "normalized": "온실가스"
+  },
+  {
+    "original": [
+      "예측"
+    ],
+    "normalized": "예측"
+  },
+  {
+    "original": [
+      "동물세포"
+    ],
+    "normalized": "동물세포"
+  },
+  {
+    "original": [
+      "교통수단"
+    ],
+    "normalized": "교통수단"
+  },
+  {
+    "original": [
+      "수도권"
+    ],
+    "normalized": "수도권"
+  },
+  {
+    "original": [
+      "전북"
+    ],
+    "normalized": "전북"
+  },
+  {
+    "original": [
+      "온누리"
+    ],
+    "normalized": "온누리"
+  },
+  {
+    "original": [
+      "생체의료부품"
+    ],
+    "normalized": "생체의료부품"
+  },
+  {
+    "original": [
+      "일별성별"
+    ],
+    "normalized": "일별성별"
+  },
+  {
+    "original": [
+      "기사"
+    ],
+    "normalized": "기사"
+  },
+  {
+    "original": [
+      "202203"
+    ],
+    "normalized": "202203"
+  },
+  {
+    "original": [
+      "상권Top100"
+    ],
+    "normalized": "상권Top100"
+  },
+  {
+    "original": [
+      "금엑"
+    ],
+    "normalized": "금엑"
+  },
+  {
+    "original": [
+      "전기택시"
+    ],
+    "normalized": "전기택시"
+  },
+  {
+    "original": [
+      "사용서비스행태"
+    ],
+    "normalized": "사용서비스행태"
+  },
+  {
+    "original": [
+      "202311"
+    ],
+    "normalized": "202311"
+  },
+  {
+    "original": [
+      "배양"
+    ],
+    "normalized": "배양"
+  },
+  {
+    "original": [
+      "법률"
+    ],
+    "normalized": "법률"
+  },
+  {
+    "original": [
+      "상주인구"
+    ],
+    "normalized": "상주인구"
+  },
+  {
+    "original": [
+      "비율"
+    ],
+    "normalized": "비율"
+  },
+  {
+    "original": [
+      "질병"
+    ],
+    "normalized": "질병"
+  },
+  {
+    "original": [
+      "연세대학교"
+    ],
+    "normalized": "연세대학교"
+  },
+  {
+    "original": [
+      "행태정보"
+    ],
+    "normalized": "행태정보"
+  },
+  {
+    "original": [
+      "충청남도"
+    ],
+    "normalized": "충청남도"
+  },
+  {
+    "original": [
+      "온라인몰"
+    ],
+    "normalized": "온라인몰"
+  },
+  {
+    "original": [
+      "202107"
+    ],
+    "normalized": "202107"
+  },
+  {
+    "original": [
+      "소호"
+    ],
+    "normalized": "소호"
+  },
+  {
+    "original": [
+      "개발"
+    ],
+    "normalized": "개발"
+  },
+  {
+    "original": [
+      "핵심기술"
+    ],
+    "normalized": "핵심기술"
+  },
+  {
+    "original": [
+      "상권별방문"
+    ],
+    "normalized": "상권별방문"
+  },
+  {
+    "original": [
+      "장기체류"
+    ],
+    "normalized": "장기체류"
+  },
+  {
+    "original": [
+      "할부"
+    ],
+    "normalized": "할부"
+  },
+  {
+    "original": [
+      "지면"
+    ],
+    "normalized": "지면"
+  },
+  {
+    "original": [
+      "부품"
+    ],
+    "normalized": "부품"
+  },
+  {
+    "original": [
+      "화장품"
+    ],
+    "normalized": "화장품"
+  },
+  {
+    "original": [
+      "202205"
+    ],
+    "normalized": "202205"
+  },
+  {
+    "original": [
+      "강남대로"
+    ],
+    "normalized": "강남대로"
+  },
+  {
+    "original": [
+      "산업"
+    ],
+    "normalized": "산업"
+  },
+  {
+    "original": [
+      "OCR"
+    ],
+    "normalized": "OCR"
+  },
+  {
+    "original": [
+      "주가예측"
+    ],
+    "normalized": "주가예측"
+  },
+  {
+    "original": [
+      "라이프"
+    ],
+    "normalized": "라이프"
+  },
+  {
+    "original": [
+      "202306"
+    ],
+    "normalized": "202306"
+  },
+  {
+    "original": [
+      "전기차"
+    ],
+    "normalized": "전기차"
+  },
+  {
+    "original": [
+      "유통소비"
+    ],
+    "normalized": "유통소비"
+  },
+  {
+    "original": [
+      "외국인"
+    ],
+    "normalized": "외국인"
+  },
+  {
+    "original": [
+      "전기차배터리"
+    ],
+    "normalized": "전기차배터리"
+  },
+  {
+    "original": [
+      "학습용데이터"
+    ],
+    "normalized": "학습용데이터"
+  },
+  {
+    "original": [
+      "국적"
+    ],
+    "normalized": "국적"
+  },
+  {
+    "original": [
+      "검색어정보"
+    ],
+    "normalized": "검색어정보"
+  },
+  {
+    "original": [
+      "성연령별"
+    ],
+    "normalized": "성연령별"
+  },
+  {
+    "original": [
+      "디지털"
+    ],
+    "normalized": "디지털"
+  },
+  {
+    "original": [
+      "2인가구"
+    ],
+    "normalized": "2인가구"
+  },
+  {
+    "original": [
+      "자동차"
+    ],
+    "normalized": "자동차"
+  },
+  {
+    "original": [
+      "지역경재"
+    ],
+    "normalized": "지역경재"
+  },
+  {
+    "original": [
+      "kdx"
+    ],
+    "normalized": "kdx"
+  },
+  {
+    "original": [
+      "행정동"
+    ],
+    "normalized": "행정동"
+  },
+  {
+    "original": [
+      "기업발굴"
+    ],
+    "normalized": "기업발굴"
+  },
+  {
+    "original": [
+      "반려인구소비"
+    ],
+    "normalized": "반려인구소비"
+  },
+  {
+    "original": [
+      "기후기술"
+    ],
+    "normalized": "기후기술"
+  },
+  {
+    "original": [
+      "23년도"
+    ],
+    "normalized": "23년도"
+  },
+  {
+    "original": [
+      "천연물"
+    ],
+    "normalized": "천연물"
+  },
+  {
+    "original": [
+      "통신"
+    ],
+    "normalized": "통신"
+  },
+  {
+    "original": [
+      "직업군별"
+    ],
+    "normalized": "직업군별"
+  },
+  {
+    "original": [
+      "상권별"
+    ],
+    "normalized": "상권별"
+  },
+  {
+    "original": [
+      "존재인구"
+    ],
+    "normalized": "존재인구"
+  },
+  {
+    "original": [
+      "방문통계"
+    ],
+    "normalized": "방문통계"
+  },
+  {
+    "original": [
+      "창폐업정보"
+    ],
+    "normalized": "창폐업정보"
+  },
+  {
+    "original": [
+      "202111"
+    ],
+    "normalized": "202111"
+  },
+  {
+    "original": [
+      "LG"
+    ],
+    "normalized": "LG"
+  },
+  {
+    "original": [
+      "202201"
+    ],
+    "normalized": "202201"
+  },
+  {
+    "original": [
+      "교통량"
+    ],
+    "normalized": "교통량"
+  },
+  {
+    "original": [
+      "유통"
+    ],
+    "normalized": "유통"
+  },
+  {
+    "original": [
+      "생활"
+    ],
+    "normalized": "생활"
+  },
+  {
+    "original": [
+      "마이크로"
+    ],
+    "normalized": "마이크로"
+  },
+  {
+    "original": [
+      "매체사"
+    ],
+    "normalized": "매체사"
+  },
+  {
+    "original": [
+      "LLM"
+    ],
+    "normalized": "LLM"
+  },
+  {
+    "original": [
+      "전라남도"
+    ],
+    "normalized": "전라남도"
+  },
+  {
+    "original": [
+      "economy"
+    ],
+    "normalized": "economy"
+  },
+  {
+    "original": [
+      "스타트업"
+    ],
+    "normalized": "스타트업"
+  },
+  {
+    "original": [
+      "매일경제"
+    ],
+    "normalized": "매일경제"
+  },
+  {
+    "original": [
+      "디지털뉴딜"
+    ],
+    "normalized": "디지털뉴딜"
+  },
+  {
+    "original": [
+      "출발"
+    ],
+    "normalized": "출발"
+  },
+  {
+    "original": [
+      "고속도로"
+    ],
+    "normalized": "고속도로"
+  },
+  {
+    "original": [
+      "가명"
+    ],
+    "normalized": "가명"
+  },
+  {
+    "original": [
+      "store"
+    ],
+    "normalized": "store"
+  },
+  {
+    "original": [
+      "웹로그"
+    ],
+    "normalized": "웹로그"
+  },
+  {
+    "original": [
+      "업체"
+    ],
+    "normalized": "업체"
+  },
+  {
+    "original": [
+      "기사요약"
+    ],
+    "normalized": "기사요약"
+  },
+  {
+    "original": [
+      "연령별"
+    ],
+    "normalized": "연령별"
+  },
+  {
+    "original": [
+      "202105"
+    ],
+    "normalized": "202105"
+  },
+  {
+    "original": [
+      "사회경제"
+    ],
+    "normalized": "사회경제"
+  },
+  {
+    "original": [
+      "면세점"
+    ],
+    "normalized": "면세점"
+  },
+  {
+    "original": [
+      "주택시장"
+    ],
+    "normalized": "주택시장"
+  },
+  {
+    "original": [
+      "50mX50m"
+    ],
+    "normalized": "50mX50m"
+  },
+  {
+    "original": [
+      "이미지센서"
+    ],
+    "normalized": "이미지센서"
+  },
+  {
+    "original": [
+      "수처리"
+    ],
+    "normalized": "수처리"
+  },
+  {
+    "original": [
+      "집계구"
+    ],
+    "normalized": "집계구"
+  },
+  {
+    "original": [
+      "구리시"
+    ],
+    "normalized": "구리시"
+  },
+  {
+    "original": [
+      "시범서비스"
+    ],
+    "normalized": "시범서비스"
+  },
+  {
+    "original": [
+      "주요미디어지수"
+    ],
+    "normalized": "주요미디어지수"
+  },
+  {
+    "original": [
+      "KS링크"
+    ],
+    "normalized": "KS링크"
+  },
+  {
+    "original": [
+      "나라별"
+    ],
+    "normalized": "나라별"
+  },
+  {
+    "original": [
+      "LED"
+    ],
+    "normalized": "LED"
+  },
+  {
+    "original": [
+      "행정동단위"
+    ],
+    "normalized": "행정동단위"
+  },
+  {
+    "original": [
+      "도로통행량"
+    ],
+    "normalized": "도로통행량"
+  },
+  {
+    "original": [
+      "category"
+    ],
+    "normalized": "category"
+  },
+  {
+    "original": [
+      "소득정보"
+    ],
+    "normalized": "소득정보"
+  },
+  {
+    "original": [
+      "형태"
+    ],
+    "normalized": "형태"
+  },
+  {
+    "original": [
+      "상권별방문데이"
+    ],
+    "normalized": "상권별방문데이"
+  },
+  {
+    "original": [
+      "ICT"
+    ],
+    "normalized": "ICT"
+  },
+  {
+    "original": [
+      "자유실시"
+    ],
+    "normalized": "자유실시"
+  },
+  {
+    "original": [
+      "202401"
+    ],
+    "normalized": "202401"
+  },
+  {
+    "original": [
+      "부산연구원"
+    ],
+    "normalized": "부산연구원"
+  },
+  {
+    "original": [
+      "광주"
+    ],
+    "normalized": "광주"
+  },
+  {
+    "original": [
+      "고속도로속도"
+    ],
+    "normalized": "고속도로속도"
+  },
+  {
+    "original": [
+      "상주"
+    ],
+    "normalized": "상주"
+  },
+  {
+    "original": [
+      "complex"
+    ],
+    "normalized": "complex"
+  },
+  {
+    "original": [
+      "EV"
+    ],
+    "normalized": "EV"
+  },
+  {
+    "original": [
+      "소재"
+    ],
+    "normalized": "소재"
+  },
+  {
+    "original": [
+      "동물"
+    ],
+    "normalized": "동물"
+  },
+  {
+    "original": [
+      "매장방문"
+    ],
+    "normalized": "매장방문"
+  },
+  {
+    "original": [
+      "MicroLED"
+    ],
+    "normalized": "MicroLED"
+  },
+  {
+    "original": [
+      "원천데이터"
+    ],
+    "normalized": "원천데이터"
+  },
+  {
+    "original": [
+      "농업"
+    ],
+    "normalized": "농업"
+  },
+  {
+    "original": [
+      "10월"
+    ],
+    "normalized": "10월"
+  },
+  {
+    "original": [
+      "정제"
+    ],
+    "normalized": "정제"
+  },
+  {
+    "original": [
+      "데이터"
+    ],
+    "normalized": "데이터"
+  },
+  {
+    "original": [
+      "반도체"
+    ],
+    "normalized": "반도체"
+  },
+  {
+    "original": [
+      "19년도"
+    ],
+    "normalized": "19년도"
+  },
+  {
+    "original": [
+      "양육비"
+    ],
+    "normalized": "양육비"
+  },
+  {
+    "original": [
+      "고객특성"
+    ],
+    "normalized": "고객특성"
+  },
+  {
+    "original": [
+      "생산량"
+    ],
+    "normalized": "생산량"
+  },
+  {
+    "original": [
+      "202210"
+    ],
+    "normalized": "202210"
+  },
+  {
+    "original": [
+      "경제활동"
+    ],
+    "normalized": "경제활동"
+  },
+  {
+    "original": [
+      "상권지역"
+    ],
+    "normalized": "상권지역"
+  },
+  {
+    "original": [
+      "카드매출"
+    ],
+    "normalized": "카드매출"
+  },
+  {
+    "original": [
+      "키워드"
+    ],
+    "normalized": "키워드"
+  },
+  {
+    "original": [
+      "연구"
+    ],
+    "normalized": "연구"
+  },
+  {
+    "original": [
+      "이차전지"
+    ],
+    "normalized": "이차전지"
+  },
+  {
+    "original": [
+      "소비패턴"
+    ],
+    "normalized": "소비패턴"
+  },
+  {
+    "original": [
+      "로플랫"
+    ],
+    "normalized": "로플랫"
+  },
+  {
+    "original": [
+      "행정동통계"
+    ],
+    "normalized": "행정동통계"
+  },
+  {
+    "original": [
+      "야간"
+    ],
+    "normalized": "야간"
+  },
+  {
+    "original": [
+      "시청"
+    ],
+    "normalized": "시청"
+  },
+  {
+    "original": [
+      "연령대"
+    ],
+    "normalized": "연령대"
+  },
+  {
+    "original": [
+      "IPTV"
+    ],
+    "normalized": "IPTV"
+  },
+  {
+    "original": [
+      "웹서비스"
+    ],
+    "normalized": "웹서비스"
+  },
+  {
+    "original": [
+      "배터리수명"
+    ],
+    "normalized": "배터리수명"
+  },
+  {
+    "original": [
+      "소비전국대상자비율"
+    ],
+    "normalized": "소비전국대상자비율"
+  },
+  {
+    "original": [
+      "명동"
+    ],
+    "normalized": "명동"
+  },
+  {
+    "original": [
+      "울산북구업종분포정보"
+    ],
+    "normalized": "울산북구업종분포정보"
+  },
+  {
+    "original": [
+      "의약외품"
+    ],
+    "normalized": "의약외품"
+  },
+  {
+    "original": [
+      "쇼핑몰"
+    ],
+    "normalized": "쇼핑몰"
+  },
+  {
+    "original": [
+      "언론사"
+    ],
+    "normalized": "언론사"
+  },
+  {
+    "original": [
+      "병원"
+    ],
+    "normalized": "병원"
+  },
+  {
+    "original": [
+      "LG유플러스"
+    ],
+    "normalized": "LG유플러스"
+  },
+  {
+    "original": [
+      "유동인구변화"
+    ],
+    "normalized": "유동인구변화"
+  },
+  {
+    "original": [
+      "윕스"
+    ],
+    "normalized": "윕스"
+  },
+  {
+    "original": [
+      "지속가능경영"
+    ],
+    "normalized": "지속가능경영"
+  },
+  {
+    "original": [
+      "교육용"
+    ],
+    "normalized": "교육용"
+  },
+  {
+    "original": [
+      "초정밀"
+    ],
+    "normalized": "초정밀"
+  },
+  {
+    "original": [
+      "이용행태"
+    ],
+    "normalized": "이용행태"
+  },
+  {
+    "original": [
+      "사회"
+    ],
+    "normalized": "사회"
+  },
+  {
+    "original": [
+      "환경"
+    ],
+    "normalized": "환경"
+  },
+  {
+    "original": [
+      "kcb"
+    ],
+    "normalized": "kcb"
+  },
+  {
+    "original": [
+      "경남"
+    ],
+    "normalized": "경남"
+  },
+  {
+    "original": [
+      "예술"
+    ],
+    "normalized": "예술"
+  },
+  {
+    "original": [
+      "월단위일평균"
+    ],
+    "normalized": "월단위일평균"
+  },
+  {
+    "original": [
+      "연령"
+    ],
+    "normalized": "연령"
+  },
+  {
+    "original": [
+      "업종별"
+    ],
+    "normalized": "업종별"
+  },
+  {
+    "original": [
+      "피엠그로우"
+    ],
+    "normalized": "피엠그로우"
+  },
+  {
+    "original": [
+      "area"
+    ],
+    "normalized": "area"
+  },
+  {
+    "original": [
+      "건강"
+    ],
+    "normalized": "건강"
+  },
+  {
+    "original": [
+      "외제차보유비율"
+    ],
+    "normalized": "외제차보유비율"
+  },
+  {
+    "original": [
+      "자연어"
+    ],
+    "normalized": "자연어"
+  },
+  {
+    "original": [
+      "기후테크"
+    ],
+    "normalized": "기후테크"
+  },
+  {
+    "original": [
+      "의약품"
+    ],
+    "normalized": "의약품"
+  },
+  {
+    "original": [
+      "전라북도"
+    ],
+    "normalized": "전라북도"
+  },
+  {
+    "original": [
+      "반도체특허"
+    ],
+    "normalized": "반도체특허"
+  },
+  {
+    "original": [
+      "202211"
+    ],
+    "normalized": "202211"
+  },
+  {
+    "original": [
+      "소비정보"
+    ],
+    "normalized": "소비정보"
+  },
+  {
+    "original": [
+      "생활권"
+    ],
+    "normalized": "생활권"
+  },
+  {
+    "original": [
+      "일시불"
+    ],
+    "normalized": "일시불"
+  },
+  {
+    "original": [
+      "poi"
+    ],
+    "normalized": "poi"
+  },
+  {
+    "original": [
+      "판매"
+    ],
+    "normalized": "판매"
+  },
+  {
+    "original": [
+      "202108"
+    ],
+    "normalized": "202108"
+  },
+  {
+    "original": [
+      "가구유형"
+    ],
+    "normalized": "가구유형"
+  },
+  {
+    "original": [
+      "3분기"
+    ],
+    "normalized": "3분기"
+  },
+  {
+    "original": [
+      "이벤트"
+    ],
+    "normalized": "이벤트"
+  },
+  {
+    "original": [
+      "지역산업"
+    ],
+    "normalized": "지역산업"
+  },
+  {
+    "original": [
+      "기사데이터"
+    ],
+    "normalized": "기사데이터"
+  },
+  {
+    "original": [
+      "AI"
+    ],
+    "normalized": "AI"
+  },
+  {
+    "original": [
+      "센서"
+    ],
+    "normalized": "센서"
+  },
+  {
+    "original": [
+      "NanoLED"
+    ],
+    "normalized": "NanoLED"
+  },
+  {
+    "original": [
+      "소비특성"
+    ],
+    "normalized": "소비특성"
+  },
+  {
+    "original": [
+      "농생명"
+    ],
+    "normalized": "농생명"
+  },
+  {
+    "original": [
+      "SOHO"
+    ],
+    "normalized": "SOHO"
+  },
+  {
+    "original": [
+      "ㅣ도"
+    ],
+    "normalized": "ㅣ도"
+  },
+  {
+    "original": [
+      "2019"
+    ],
+    "normalized": "2019"
+  },
+  {
+    "original": [
+      "유동"
+    ],
+    "normalized": "유동"
+  },
+  {
+    "original": [
+      "온누리에이치엔씨"
+    ],
+    "normalized": "온누리에이치엔씨"
+  },
+  {
+    "original": [
+      "ETC"
+    ],
+    "normalized": "ETC"
+  },
+  {
+    "original": [
+      "양극소재"
+    ],
+    "normalized": "양극소재"
+  },
+  {
+    "original": [
+      "탄소"
+    ],
+    "normalized": "탄소"
+  },
+  {
+    "original": [
+      "멤버쉽"
+    ],
+    "normalized": "멤버쉽"
+  },
+  {
+    "original": [
+      "맞춤데이터"
+    ],
+    "normalized": "맞춤데이터"
+  },
+  {
+    "original": [
+      "리튬"
+    ],
+    "normalized": "리튬"
+  },
+  {
+    "original": [
+      "속도"
+    ],
+    "normalized": "속도"
+  },
+  {
+    "original": [
+      "가구데이터"
+    ],
+    "normalized": "가구데이터"
+  },
+  {
+    "original": [
+      "선박"
+    ],
+    "normalized": "선박"
+  },
+  {
+    "original": [
+      "매장"
+    ],
+    "normalized": "매장"
+  },
+  {
+    "original": [
+      "경제"
+    ],
+    "normalized": "경제"
+  },
+  {
+    "original": [
+      "도시공학과"
+    ],
+    "normalized": "도시공학과"
+  },
+  {
+    "original": [
+      "202202"
+    ],
+    "normalized": "202202"
+  },
+  {
+    "original": [
+      "분석"
+    ],
+    "normalized": "분석"
+  },
+  {
+    "original": [
+      "202102"
+    ],
+    "normalized": "202102"
+  },
+  {
+    "original": [
+      "202212"
+    ],
+    "normalized": "202212"
+  },
+  {
+    "original": [
+      "자연"
+    ],
+    "normalized": "자연"
+  },
+  {
+    "original": [
+      "교차로"
+    ],
+    "normalized": "교차로"
+  },
+  {
+    "original": [
+      "유플러스uplus"
+    ],
+    "normalized": "유플러스uplus"
+  },
+  {
+    "original": [
+      "웹앱이용"
+    ],
+    "normalized": "웹앱이용"
+  },
+  {
+    "original": [
+      "하이엔드대상자비율"
+    ],
+    "normalized": "하이엔드대상자비율"
+  },
+  {
+    "original": [
+      "영유아자녀부모소비"
+    ],
+    "normalized": "영유아자녀부모소비"
+  },
+  {
+    "original": [
+      "연체정보"
+    ],
+    "normalized": "연체정보"
+  },
+  {
+    "original": [
+      "의학"
+    ],
+    "normalized": "의학"
+  },
+  {
+    "original": [
+      "정보"
+    ],
+    "normalized": "정보"
+  },
+  {
+    "original": [
+      "랭킹"
+    ],
+    "normalized": "랭킹"
+  },
+  {
+    "original": [
+      "울산업종별창폐업정보"
+    ],
+    "normalized": "울산업종별창폐업정보"
+  },
+  {
+    "original": [
+      "웰니스"
+    ],
+    "normalized": "웰니스"
+  },
+  {
+    "original": [
+      "지수"
+    ],
+    "normalized": "지수"
+  },
+  {
+    "original": [
+      "2025"
+    ],
+    "normalized": "2025"
+  },
+  {
+    "original": [
+      "고압"
+    ],
+    "normalized": "고압"
+  },
+  {
+    "original": [
+      "사용자행태"
+    ],
+    "normalized": "사용자행태"
+  },
+  {
+    "original": [
+      "울산광역시"
+    ],
+    "normalized": "울산광역시"
+  },
+  {
+    "original": [
+      "엘지유플러스"
+    ],
+    "normalized": "엘지유플러스"
+  },
+  {
+    "original": [
+      "사용서비스"
+    ],
+    "normalized": "사용서비스"
+  },
+  {
+    "original": [
+      "항공"
+    ],
+    "normalized": "항공"
+  },
+  {
+    "original": [
+      "해외"
+    ],
+    "normalized": "해외"
+  },
+  {
+    "original": [
+      "고속도로통행량"
+    ],
+    "normalized": "고속도로통행량"
+  },
+  {
+    "original": [
+      "부동산"
+    ],
+    "normalized": "부동산"
+  },
+  {
+    "original": [
+      "그림"
+    ],
+    "normalized": "그림"
+  },
+  {
+    "original": [
+      "소비가능금액"
+    ],
+    "normalized": "소비가능금액"
+  },
+  {
+    "original": [
+      "카테고리"
+    ],
+    "normalized": "카테고리"
+  },
+  {
+    "original": [
+      "24년"
+    ],
+    "normalized": "24년"
+  },
+  {
+    "original": [
+      "시도"
+    ],
+    "normalized": "시도"
+  },
+  {
+    "original": [
+      "결합데이터"
+    ],
+    "normalized": "결합데이터"
+  },
+  {
+    "original": [
+      "지역별상권"
+    ],
+    "normalized": "지역별상권"
+  },
+  {
+    "original": [
+      "경기도"
+    ],
+    "normalized": "경기도"
+  },
+  {
+    "original": [
+      "app"
+    ],
+    "normalized": "app"
+  },
+  {
+    "original": [
+      "성별"
+    ],
+    "normalized": "성별"
+  },
+  {
+    "original": [
+      "모델"
+    ],
+    "normalized": "모델"
+  },
+  {
+    "original": [
+      "직업"
+    ],
+    "normalized": "직업"
+  },
+  {
+    "original": [
+      "성향"
+    ],
+    "normalized": "성향"
+  },
+  {
+    "original": [
+      "202204"
+    ],
+    "normalized": "202204"
+  },
+  {
+    "original": [
+      "배터리데이터"
+    ],
+    "normalized": "배터리데이터"
+  },
+  {
+    "original": [
+      "프리미엄"
+    ],
+    "normalized": "프리미엄"
+  },
+  {
+    "original": [
+      "행사"
+    ],
+    "normalized": "행사"
+  },
+  {
+    "original": [
+      "여행"
+    ],
+    "normalized": "여행"
+  },
+  {
+    "original": [
+      "울산"
+    ],
+    "normalized": "울산"
+  },
+  {
+    "original": [
+      "배터리"
+    ],
+    "normalized": "배터리"
+  },
+  {
+    "original": [
+      "아이돌"
+    ],
+    "normalized": "아이돌"
+  },
+  {
+    "original": [
+      "가계부채"
+    ],
+    "normalized": "가계부채"
+  },
+  {
+    "original": [
+      "4분기"
+    ],
+    "normalized": "4분기"
+  },
+  {
+    "original": [
+      "과학"
+    ],
+    "normalized": "과학"
+  },
+  {
+    "original": [
+      "전장"
+    ],
+    "normalized": "전장"
+  },
+  {
+    "original": [
+      "그린바이오"
+    ],
+    "normalized": "그린바이오"
+  },
+  {
+    "original": [
+      "katlas"
+    ],
+    "normalized": "katlas"
+  },
+  {
+    "original": [
+      "울산남구업종분포정보"
+    ],
+    "normalized": "울산남구업종분포정보"
+  },
+  {
+    "original": [
+      "애견"
+    ],
+    "normalized": "애견"
+  },
+  {
+    "original": [
+      "리트머스"
+    ],
+    "normalized": "리트머스"
+  },
+  {
+    "original": [
+      "이용건수"
+    ],
+    "normalized": "이용건수"
+  },
+  {
+    "original": [
+      "코로나19"
+    ],
+    "normalized": "코로나19"
+  },
+  {
+    "original": [
+      "202307"
+    ],
+    "normalized": "202307"
+  },
+  {
+    "original": [
+      "통계"
+    ],
+    "normalized": "통계"
+  },
+  {
+    "original": [
+      "샘플"
+    ],
+    "normalized": "샘플"
+  },
+  {
+    "original": [
+      "계열별"
+    ],
+    "normalized": "계열별"
+  },
+  {
+    "original": [
+      "진료과별매출통계"
+    ],
+    "normalized": "진료과별매출통계"
+  },
+  {
+    "original": [
+      "인기지역"
+    ],
+    "normalized": "인기지역"
+  },
+  {
+    "original": [
+      "경남양산업종분포정보"
+    ],
+    "normalized": "경남양산업종분포정보"
+  },
+  {
+    "original": [
+      "기계"
+    ],
+    "normalized": "기계"
+  },
+  {
+    "original": [
+      "사용행태"
+    ],
+    "normalized": "사용행태"
+  },
+  {
+    "original": [
+      "soho"
+    ],
+    "normalized": "soho"
+  },
+  {
+    "original": [
+      "202106"
+    ],
+    "normalized": "202106"
+  },
+  {
+    "original": [
+      "급상승키워드"
+    ],
+    "normalized": "급상승키워드"
+  },
+  {
+    "original": [
+      "온라인판매내역"
+    ],
+    "normalized": "온라인판매내역"
+  },
+  {
+    "original": [
+      "코로나전후"
+    ],
+    "normalized": "코로나전후"
+  },
+  {
+    "original": [
+      "소득"
+    ],
+    "normalized": "소득"
+  },
+  {
+    "original": [
+      "본교"
+    ],
+    "normalized": "본교"
+  },
+  {
+    "original": [
+      "마일리지서비스"
+    ],
+    "normalized": "마일리지서비스"
+  },
+  {
+    "original": [
+      "음극소재"
+    ],
+    "normalized": "음극소재"
+  },
+  {
+    "original": [
+      "법률데이터"
+    ],
+    "normalized": "법률데이터"
+  },
+  {
+    "original": [
+      "소득소비통계"
+    ],
+    "normalized": "소득소비통계"
+  },
+  {
+    "original": [
+      "스마트홈"
+    ],
+    "normalized": "스마트홈"
+  },
+  {
+    "original": [
+      "통신데이타"
+    ],
+    "normalized": "통신데이타"
+  },
+  {
+    "original": [
+      "온누리건강기능식품"
+    ],
+    "normalized": "온누리건강기능식품"
+  },
+  {
+    "original": [
+      "공학"
+    ],
+    "normalized": "공학"
+  },
+  {
+    "original": [
+      "연료"
+    ],
+    "normalized": "연료"
+  },
+  {
+    "original": [
+      "직장인구"
+    ],
+    "normalized": "직장인구"
+  },
+  {
+    "original": [
+      "매장정보"
+    ],
+    "normalized": "매장정보"
+  },
+  {
+    "original": [
+      "오가노이드"
+    ],
+    "normalized": "오가노이드"
+  },
+  {
+    "original": [
+      "명절"
+    ],
+    "normalized": "명절"
+  },
+  {
+    "original": [
+      "에너지소비량"
+    ],
+    "normalized": "에너지소비량"
+  },
+  {
+    "original": [
+      "지역소비"
+    ],
+    "normalized": "지역소비"
+  },
+  {
+    "original": [
+      "온라인판매내역온누리약국"
+    ],
+    "normalized": "온라인판매내역온누리약국"
+  },
+  {
+    "original": [
+      "경북"
+    ],
+    "normalized": "경북"
+  },
+  {
+    "original": [
+      "시군구"
+    ],
+    "normalized": "시군구"
+  },
+  {
+    "original": [
+      "매경"
+    ],
+    "normalized": "매경"
+  },
+  {
+    "original": [
+      "체육"
+    ],
+    "normalized": "체육"
+  },
+  {
+    "original": [
+      "학습"
+    ],
+    "normalized": "학습"
+  },
+  {
+    "original": [
+      "코로나"
+    ],
+    "normalized": "코로나"
+  },
+  {
+    "original": [
+      "IoT"
+    ],
+    "normalized": "IoT"
+  },
+  {
+    "original": [
+      "도로교통량"
+    ],
+    "normalized": "도로교통량"
+  },
+  {
+    "original": [
+      "LGUPLUS"
+    ],
+    "normalized": "LGUPLUS"
+  },
+  {
+    "original": [
+      "상권데이터"
+    ],
+    "normalized": "상권데이터"
+  },
+  {
+    "original": [
+      "하이엔드"
+    ],
+    "normalized": "하이엔드"
+  },
+  {
+    "original": [
+      "울산창폐업정보"
+    ],
+    "normalized": "울산창폐업정보"
+  },
+  {
+    "original": [
+      "분리막"
+    ],
+    "normalized": "분리막"
+  },
+  {
+    "original": [
+      "유동인구"
+    ],
+    "normalized": "유동인구"
+  },
+  {
+    "original": [
+      "AMOLED"
+    ],
+    "normalized": "AMOLED"
+  },
+  {
+    "original": [
+      "미디어"
+    ],
+    "normalized": "미디어"
+  },
+  {
+    "original": [
+      "카드소비"
+    ],
+    "normalized": "카드소비"
+  },
+  {
+    "original": [
+      "ocb사용자성별"
+    ],
+    "normalized": "ocb사용자성별"
+  },
+  {
+    "original": [
+      "기후특허"
+    ],
+    "normalized": "기후특허"
+  },
+  {
+    "original": [
+      "관광객"
+    ],
+    "normalized": "관광객"
+  },
+  {
+    "original": [
+      "syrup앱"
+    ],
+    "normalized": "syrup앱"
+  },
+  {
+    "original": [
+      "음악"
+    ],
+    "normalized": "음악"
+  },
+  {
+    "original": [
+      "202112"
+    ],
+    "normalized": "202112"
+  },
+  {
+    "original": [
+      "코스피100대기업"
+    ],
+    "normalized": "코스피100대기업"
+  },
+  {
+    "original": [
+      "화학"
+    ],
+    "normalized": "화학"
+  },
+  {
+    "original": [
+      "디램"
+    ],
+    "normalized": "디램"
+  },
+  {
+    "original": [
+      "검색어"
+    ],
+    "normalized": "검색어"
+  },
+  {
+    "original": [
+      "KDXKCB코리아크레딧뷰로맞춤형지역경제모니터링지표부산연구원"
+    ],
+    "normalized": "KDXKCB코리아크레딧뷰로맞춤형지역경제모니터링지표부산연구원"
+  },
+  {
+    "original": [
+      "visit"
+    ],
+    "normalized": "visit"
+  },
+  {
+    "original": [
+      "KDX한국데이터거래소"
+    ],
+    "normalized": "KDX한국데이터거래소"
+  },
+  {
+    "original": [
+      "Academy"
+    ],
+    "normalized": "Academy"
+  },
+  {
+    "original": [
+      "매거진"
+    ],
+    "normalized": "매거진"
+  },
+  {
+    "original": [
+      "대학교"
+    ],
+    "normalized": "대학교"
+  },
+  {
+    "original": [
+      "NLP"
+    ],
+    "normalized": "NLP"
+  },
+  {
+    "original": [
+      "인버터"
+    ],
+    "normalized": "인버터"
+  },
+  {
+    "original": [
+      "AI솔루션"
+    ],
+    "normalized": "AI솔루션"
+  },
+  {
+    "original": [
+      "2024"
+    ],
+    "normalized": "2024"
+  },
+  {
+    "original": [
+      "해외여행"
+    ],
+    "normalized": "해외여행"
+  },
+  {
+    "original": [
+      "주력산업"
+    ],
+    "normalized": "주력산업"
+  },
+  {
+    "original": [
+      "충남"
+    ],
+    "normalized": "충남"
+  },
+  {
+    "original": [
+      "도착"
+    ],
+    "normalized": "도착"
+  },
+  {
+    "original": [
+      "비상주"
+    ],
+    "normalized": "비상주"
+  },
+  {
+    "original": [
+      "행동패턴분석"
+    ],
+    "normalized": "행동패턴분석"
+  },
+  {
+    "original": [
+      "사용자성별"
+    ],
+    "normalized": "사용자성별"
+  },
+  {
+    "original": [
+      "주가"
+    ],
+    "normalized": "주가"
+  },
+  {
+    "original": [
+      "ocb"
+    ],
+    "normalized": "ocb"
+  },
+  {
+    "original": [
+      "특허"
+    ],
+    "normalized": "특허"
+  },
+  {
+    "original": [
+      "여행사"
+    ],
+    "normalized": "여행사"
+  },
+  {
+    "original": [
+      "자가거주비율"
+    ],
+    "normalized": "자가거주비율"
+  },
+  {
+    "original": [
+      "2019년"
+    ],
+    "normalized": "2019년"
+  },
+  {
+    "original": [
+      "교툥량"
+    ],
+    "normalized": "교툥량"
+  },
+  {
+    "original": [
+      "삼성카드"
+    ],
+    "normalized": "삼성카드"
+  },
+  {
+    "original": [
+      "202208"
+    ],
+    "normalized": "202208"
+  },
+  {
+    "original": [
+      "loplat"
+    ],
+    "normalized": "loplat"
+  },
+  {
+    "original": [
+      "인구"
+    ],
+    "normalized": "인구"
+  },
+  {
+    "original": [
+      "사립"
+    ],
+    "normalized": "사립"
+  },
+  {
+    "original": [
+      "신소재"
+    ],
+    "normalized": "신소재"
+  },
+  {
+    "original": [
+      "원자력"
+    ],
+    "normalized": "원자력"
+  },
+  {
+    "original": [
+      "의약"
+    ],
+    "normalized": "의약"
+  },
+  {
+    "original": [
+      "판례"
+    ],
+    "normalized": "판례"
+  },
+  {
+    "original": [
+      "202207"
+    ],
+    "normalized": "202207"
+  },
+  {
+    "original": [
+      "체류시간"
+    ],
+    "normalized": "체류시간"
+  },
+  {
+    "original": [
+      "차트"
+    ],
+    "normalized": "차트"
+  },
+  {
+    "original": [
+      "관광"
+    ],
+    "normalized": "관광"
+  },
+  {
+    "original": [
+      "전문직비율"
+    ],
+    "normalized": "전문직비율"
+  },
+  {
+    "original": [
+      "온누리약국"
+    ],
+    "normalized": "온누리약국"
+  },
+  {
+    "original": [
+      "앤데믹"
+    ],
+    "normalized": "앤데믹"
+  },
+  {
+    "original": [
+      "일반약품"
+    ],
+    "normalized": "일반약품"
+  },
+  {
+    "original": [
+      "마이크로소비행태"
+    ],
+    "normalized": "마이크로소비행태"
+  },
+  {
+    "original": [
+      "전주시"
+    ],
+    "normalized": "전주시"
+  },
+  {
+    "original": [
+      "미시경제"
+    ],
+    "normalized": "미시경제"
+  },
+  {
+    "original": [
+      "주거인구"
+    ],
+    "normalized": "주거인구"
+  },
+  {
+    "original": [
+      "시간별소비"
+    ],
+    "normalized": "시간별소비"
+  },
+  {
+    "original": [
+      "아파트거주비율"
+    ],
+    "normalized": "아파트거주비율"
+  },
+  {
+    "original": [
+      "국방"
+    ],
+    "normalized": "국방"
+  },
+  {
+    "original": [
+      "친환경"
+    ],
+    "normalized": "친환경"
+  },
+  {
+    "original": [
+      "인공지능"
+    ],
+    "normalized": "인공지능"
+  },
+  {
+    "original": [
+      "QD"
+    ],
+    "normalized": "QD"
+  },
+  {
+    "original": [
+      "KOSPI"
+    ],
+    "normalized": "KOSPI"
+  },
+  {
+    "original": [
+      "모니터링"
+    ],
+    "normalized": "모니터링"
+  },
+  {
+    "original": [
+      "폐수"
+    ],
+    "normalized": "폐수"
+  },
+  {
+    "original": [
+      "울산동구업종분포정보"
+    ],
+    "normalized": "울산동구업종분포정보"
+  },
+  {
+    "original": [
+      "대전"
+    ],
+    "normalized": "대전"
+  },
+  {
+    "original": [
+      "100대기업"
+    ],
+    "normalized": "100대기업"
+  },
+  {
+    "original": [
+      "202308"
+    ],
+    "normalized": "202308"
+  },
+  {
+    "original": [
+      "코라이크레딧뷰로"
+    ],
+    "normalized": "코라이크레딧뷰로"
+  },
+  {
+    "original": [
+      "헬스케어"
+    ],
+    "normalized": "헬스케어"
+  },
+  {
+    "original": [
+      "통신데이터"
+    ],
+    "normalized": "통신데이터"
+  },
+  {
+    "original": [
+      "문서"
+    ],
+    "normalized": "문서"
+  },
+  {
+    "original": [
+      "이동수단"
+    ],
+    "normalized": "이동수단"
+  },
+  {
+    "original": [
+      "문화"
+    ],
+    "normalized": "문화"
+  },
+  {
+    "original": [
+      "부산광역시"
+    ],
+    "normalized": "부산광역시"
+  },
+  {
+    "original": [
+      "대전광역시"
+    ],
+    "normalized": "대전광역시"
+  },
+  {
+    "original": [
+      "모바일"
+    ],
+    "normalized": "모바일"
+  },
+  {
+    "original": [
+      "단기체류"
+    ],
+    "normalized": "단기체류"
+  },
+  {
+    "original": [
+      "탄소저감"
+    ],
+    "normalized": "탄소저감"
+  },
+  {
+    "original": [
+      "데이터바우처"
+    ],
+    "normalized": "데이터바우처"
+  },
+  {
+    "original": [
+      "오프라인"
+    ],
+    "normalized": "오프라인"
+  },
+  {
+    "original": [
+      "ESG"
+    ],
+    "normalized": "ESG"
+  },
+  {
+    "original": [
+      "시럽서비스"
+    ],
+    "normalized": "시럽서비스"
+  },
+  {
+    "original": [
+      "대촐"
+    ],
+    "normalized": "대촐"
+  },
+  {
+    "original": [
+      "직업군"
+    ],
+    "normalized": "직업군"
+  },
+  {
+    "original": [
+      "모터"
+    ],
+    "normalized": "모터"
+  },
+  {
+    "original": [
+      "우주"
+    ],
+    "normalized": "우주"
+  },
+  {
+    "original": [
+      "인구통계"
+    ],
+    "normalized": "인구통계"
+  },
+  {
+    "original": [
+      "사업체수"
+    ],
+    "normalized": "사업체수"
+  },
+  {
+    "original": [
+      "인구수"
+    ],
+    "normalized": "인구수"
+  },
+  {
+    "original": [
+      "약국"
+    ],
+    "normalized": "약국"
+  },
+  {
+    "original": [
+      "상권"
+    ],
+    "normalized": "상권"
+  },
+  {
+    "original": [
+      "국가첨단전략"
+    ],
+    "normalized": "국가첨단전략"
+  },
+  {
+    "original": [
+      "울산공실"
+    ],
+    "normalized": "울산공실"
+  },
+  {
+    "original": [
+      "식품"
+    ],
+    "normalized": "식품"
+  },
+  {
+    "original": [
+      "에너지"
+    ],
+    "normalized": "에너지"
+  },
+  {
+    "original": [
+      "데이터루"
+    ],
+    "normalized": "데이터루"
+  },
+  {
+    "original": [
+      "물류"
+    ],
+    "normalized": "물류"
+  },
+  {
+    "original": [
+      "방문인구"
+    ],
+    "normalized": "방문인구"
+  },
+  {
+    "original": [
+      "관광지"
+    ],
+    "normalized": "관광지"
+  },
+  {
+    "original": [
+      "농가인구"
+    ],
+    "normalized": "농가인구"
+  },
+  {
+    "original": [
+      "언어"
+    ],
+    "normalized": "언어"
+  },
+  {
+    "original": [
+      "전국"
+    ],
+    "normalized": "전국"
+  },
+  {
+    "original": [
+      "영화"
+    ],
+    "normalized": "영화"
+  },
+  {
+    "original": [
+      "전남"
+    ],
+    "normalized": "전남"
+  },
+  {
+    "original": [
+      "202312"
+    ],
+    "normalized": "202312"
+  },
+  {
+    "original": [
+      "경상북도"
+    ],
+    "normalized": "경상북도"
+  },
+  {
+    "original": [
+      "퀀텀"
+    ],
+    "normalized": "퀀텀"
+  },
+  {
+    "original": [
+      "가구"
+    ],
+    "normalized": "가구"
+  },
+  {
+    "original": [
+      "에스케이텔레콤"
+    ],
+    "normalized": "에스케이텔레콤"
+  },
+  {
+    "original": [
+      "가맹점"
+    ],
+    "normalized": "가맹점"
+  },
+  {
+    "original": [
+      "소비트렌드"
+    ],
+    "normalized": "소비트렌드"
+  },
+  {
+    "original": [
+      "202209"
+    ],
+    "normalized": "202209"
+  },
+  {
+    "original": [
+      "인기검색어"
+    ],
+    "normalized": "인기검색어"
+  },
+  {
+    "original": [
+      "방문자수"
+    ],
+    "normalized": "방문자수"
+  },
+  {
+    "original": [
+      "의류매장"
+    ],
+    "normalized": "의류매장"
+  },
+  {
+    "original": [
+      "KDX"
+    ],
+    "normalized": "KDX"
+  },
+  {
+    "original": [
+      "KCB"
+    ],
+    "normalized": "KCB"
+  },
+  {
+    "original": [
+      "통신사"
+    ],
+    "normalized": "통신사"
+  },
+  {
+    "original": [
+      "금액"
+    ],
+    "normalized": "금액"
+  },
+  {
+    "original": [
+      "시럽앱검색어정보"
+    ],
+    "normalized": "시럽앱검색어정보"
+  },
+  {
+    "original": [
+      "뉴스데이터"
+    ],
+    "normalized": "뉴스데이터"
+  },
+  {
+    "original": [
+      "신문"
+    ],
+    "normalized": "신문"
+  },
+  {
+    "original": [
+      "방송사"
+    ],
+    "normalized": "방송사"
+  },
+  {
+    "original": [
+      "미디어데이터"
+    ],
+    "normalized": "미디어데이터"
+  },
+  {
+    "original": [
+      "지표"
+    ],
+    "normalized": "지표"
+  },
+  {
+    "original": [
+      "세종"
+    ],
+    "normalized": "세종"
+  },
+  {
+    "original": [
+      "익명정보"
+    ],
+    "normalized": "익명정보"
+  },
+  {
+    "original": [
+      "전기버스"
+    ],
+    "normalized": "전기버스"
+  },
+  {
+    "original": [
+      "업력"
+    ],
+    "normalized": "업력"
+  },
+  {
+    "original": [
+      "키즈맘"
+    ],
+    "normalized": "키즈맘"
+  },
+  {
+    "original": [
+      "고속도로교통량"
+    ],
+    "normalized": "고속도로교통량"
+  },
+  {
+    "original": [
+      "일별"
+    ],
+    "normalized": "일별"
+  },
+  {
+    "original": [
+      "의료업종통계"
+    ],
+    "normalized": "의료업종통계"
+  },
+  {
+    "original": [
+      "삼성카드아카데미"
+    ],
+    "normalized": "삼성카드아카데미"
+  },
+  {
+    "original": [
+      "연구목적"
+    ],
+    "normalized": "연구목적"
+  },
+  {
+    "original": [
+      "건강기능식품"
+    ],
+    "normalized": "건강기능식품"
+  },
+  {
+    "original": [
+      "statistics"
+    ],
+    "normalized": "statistics"
+  },
+  {
+    "original": [
+      "가스"
+    ],
+    "normalized": "가스"
+  },
+  {
+    "original": [
+      "퀀텀닷"
+    ],
+    "normalized": "퀀텀닷"
+  },
+  {
+    "original": [
+      "모바일TV"
+    ],
+    "normalized": "모바일TV"
+  },
+  {
+    "original": [
+      "서비스인구"
+    ],
+    "normalized": "서비스인구"
+  },
+  {
+    "original": [
+      "대구"
+    ],
+    "normalized": "대구"
+  },
+  {
+    "original": [
+      "성별비율"
+    ],
+    "normalized": "성별비율"
+  },
+  {
+    "original": [
+      "이코노미"
+    ],
+    "normalized": "이코노미"
+  },
+  {
+    "original": [
+      "부산지역가계금융"
+    ],
+    "normalized": "부산지역가계금융"
+  },
+  {
+    "original": [
+      "건기식"
+    ],
+    "normalized": "건기식"
+  },
+  {
+    "original": [
+      "E커머스"
+    ],
+    "normalized": "E커머스"
+  },
+  {
+    "original": [
+      "202109"
+    ],
+    "normalized": "202109"
+  },
+  {
+    "original": [
+      "주간"
+    ],
+    "normalized": "주간"
+  },
+  {
+    "original": [
+      "챗봇"
+    ],
+    "normalized": "챗봇"
+  },
+  {
+    "original": [
+      "모빌리티"
+    ],
+    "normalized": "모빌리티"
+  },
+  {
+    "original": [
+      "시럽앱검색어"
+    ],
+    "normalized": "시럽앱검색어"
+  },
+  {
+    "original": [
+      "비상주인구"
+    ],
+    "normalized": "비상주인구"
+  },
+  {
+    "original": [
+      "앱데이터"
+    ],
+    "normalized": "앱데이터"
+  },
+  {
+    "original": [
+      "직업별"
+    ],
+    "normalized": "직업별"
+  },
+  {
+    "original": [
+      "Quantumdot"
+    ],
+    "normalized": "Quantumdot"
+  },
+  {
+    "original": [
+      "하이엔드대상자"
+    ],
+    "normalized": "하이엔드대상자"
+  },
+  {
+    "original": [
+      "농민"
+    ],
+    "normalized": "농민"
+  },
+  {
+    "original": [
+      "폐기물"
+    ],
+    "normalized": "폐기물"
+  },
+  {
+    "original": [
+      "분화"
+    ],
+    "normalized": "분화"
+  },
+  {
+    "original": [
+      "시간별"
+    ],
+    "normalized": "시간별"
+  },
+  {
+    "original": [
+      "맞춤형"
+    ],
+    "normalized": "맞춤형"
+  },
+  {
+    "original": [
+      "법인대표자비율"
+    ],
+    "normalized": "법인대표자비율"
+  },
+  {
+    "original": [
+      "인천"
+    ],
+    "normalized": "인천"
+  },
+  {
+    "original": [
+      "헬스"
+    ],
+    "normalized": "헬스"
+  },
+  {
+    "original": [
+      "펜데믹"
+    ],
+    "normalized": "펜데믹"
+  },
+  {
+    "original": [
+      "생활인구"
+    ],
+    "normalized": "생활인구"
+  },
+  {
+    "original": [
+      "처방"
+    ],
+    "normalized": "처방"
+  },
+  {
+    "original": [
+      "uplus"
+    ],
+    "normalized": "uplus"
+  },
+  {
+    "original": [
+      "방문정보"
+    ],
+    "normalized": "방문정보"
+  },
+  {
+    "original": [
+      "설날"
+    ],
+    "normalized": "설날"
+  },
+  {
+    "original": [
+      "서울"
+    ],
+    "normalized": "서울"
+  },
+  {
+    "original": [
+      "조제내역"
+    ],
+    "normalized": "조제내역"
+  },
+  {
+    "original": [
+      "API"
+    ],
+    "normalized": "API"
+  },
+  {
+    "original": [
+      "2023년"
+    ],
+    "normalized": "2023년"
+  },
+  {
+    "original": [
+      "2분기"
+    ],
+    "normalized": "2분기"
+  },
+  {
+    "original": [
+      "스마트그리드"
+    ],
+    "normalized": "스마트그리드"
+  },
+  {
+    "original": [
+      "주요검색어"
+    ],
+    "normalized": "주요검색어"
+  },
+  {
+    "original": [
+      "시럽"
+    ],
+    "normalized": "시럽"
+  },
+  {
+    "original": [
+      "첨단"
+    ],
+    "normalized": "첨단"
+  },
+  {
+    "original": [
+      "지역"
+    ],
+    "normalized": "지역"
+  },
+  {
+    "original": [
+      "뉴스분석"
+    ],
+    "normalized": "뉴스분석"
+  },
+  {
+    "original": [
+      "전세사기"
+    ],
+    "normalized": "전세사기"
+  },
+  {
+    "original": [
+      "낸드플래시"
+    ],
+    "normalized": "낸드플래시"
+  },
+  {
+    "original": [
+      "일반의약품"
+    ],
+    "normalized": "일반의약품"
+  },
+  {
+    "original": [
+      "업종"
+    ],
+    "normalized": "업종"
+  },
+  {
+    "original": [
+      "Nano"
+    ],
+    "normalized": "Nano"
+  },
+  {
+    "original": [
+      "OCB"
+    ],
+    "normalized": "OCB"
+  },
+  {
+    "original": [
+      "케어"
+    ],
+    "normalized": "케어"
+  },
+  {
+    "original": [
+      "otc"
+    ],
+    "normalized": "otc"
+  },
+  {
+    "original": [
+      "매일경제신문사"
+    ],
+    "normalized": "매일경제신문사"
+  },
+  {
+    "original": [
+      "울산양산공급기업"
+    ],
+    "normalized": "울산양산공급기업"
+  },
+  {
+    "original": [
+      "강원"
+    ],
+    "normalized": "강원"
+  },
+  {
+    "original": [
+      "여의도"
+    ],
+    "normalized": "여의도"
+  },
+  {
+    "original": [
+      "인문"
+    ],
+    "normalized": "인문"
+  },
+  {
+    "original": [
+      "경상남도"
+    ],
+    "normalized": "경상남도"
+  },
+  {
+    "original": [
+      "SK텔레콤"
+    ],
+    "normalized": "SK텔레콤"
+  },
+  {
+    "original": [
+      "미디어인덱스"
+    ],
+    "normalized": "미디어인덱스"
+  },
+  {
+    "original": [
+      "시각화"
+    ],
+    "normalized": "시각화"
+  },
+  {
+    "original": [
+      "매일경제신문"
+    ],
+    "normalized": "매일경제신문"
+  },
+  {
+    "original": [
+      "etc"
+    ],
+    "normalized": "etc"
+  },
+  {
+    "original": [
+      "신중년소비"
+    ],
+    "normalized": "신중년소비"
+  },
+  {
+    "original": [
+      "방문자분석"
+    ],
+    "normalized": "방문자분석"
+  },
+  {
+    "original": [
+      "메디컬"
+    ],
+    "normalized": "메디컬"
+  },
+  {
+    "original": [
+      "인구데이터"
+    ],
+    "normalized": "인구데이터"
+  },
+  {
+    "original": [
+      "전기자동차"
+    ],
+    "normalized": "전기자동차"
+  },
+  {
+    "original": [
+      "온누리스토어헬스케어"
+    ],
+    "normalized": "온누리스토어헬스케어"
+  },
+  {
+    "original": [
+      "연령대별"
+    ],
+    "normalized": "연령대별"
+  },
+  {
+    "original": [
+      "특허데이터"
+    ],
+    "normalized": "특허데이터"
+  },
+  {
+    "original": [
+      "미디어지수"
+    ],
+    "normalized": "미디어지수"
+  },
+  {
+    "original": [
+      "위자료"
+    ],
+    "normalized": "위자료"
+  },
+  {
+    "original": [
+      "실버케어"
+    ],
+    "normalized": "실버케어"
+  },
+  {
+    "original": [
+      "판매내역"
+    ],
+    "normalized": "판매내역"
+  },
+  {
+    "original": [
+      "뉴스"
+    ],
+    "normalized": "뉴스"
+  },
+  {
+    "original": [
+      "지하철역"
+    ],
+    "normalized": "지하철역"
+  },
+  {
+    "original": [
+      "연간이용"
+    ],
+    "normalized": "연간이용"
+  },
+  {
+    "original": [
+      "202110"
+    ],
+    "normalized": "202110"
+  },
+  {
+    "original": [
+      "머신러닝"
+    ],
+    "normalized": "머신러닝"
+  },
+  {
+    "original": [
+      "1인가구"
+    ],
+    "normalized": "1인가구"
+  },
+  {
+    "original": [
+      "대형마트"
+    ],
+    "normalized": "대형마트"
+  },
+  {
+    "original": [
+      "온누리hnc"
+    ],
+    "normalized": "온누리hnc"
+  },
+  {
+    "original": [
+      "저온"
+    ],
+    "normalized": "저온"
+  },
+  {
+    "original": [
+      "울산울주군업종분포정보"
+    ],
+    "normalized": "울산울주군업종분포정보"
+  },
+  {
+    "original": [
+      "Generic"
+    ],
+    "normalized": "Generic"
+  },
+  {
+    "original": [
+      "콘텐츠"
+    ],
+    "normalized": "콘텐츠"
+  },
+  {
+    "original": [
+      "삼성"
+    ],
+    "normalized": "삼성"
+  },
+  {
+    "original": [
+      "처방전"
+    ],
+    "normalized": "처방전"
+  },
+  {
+    "original": [
+      "2020년"
+    ],
+    "normalized": "2020년"
+  },
+  {
+    "original": [
+      "202301"
+    ],
+    "normalized": "202301"
+  },
+  {
+    "original": [
+      "전기차일반"
+    ],
+    "normalized": "전기차일반"
+  },
+  {
+    "original": [
+      "Ai"
+    ],
+    "normalized": "Ai"
+  },
+  {
+    "original": [
+      "외자체보유비율"
+    ],
+    "normalized": "외자체보유비율"
+  },
+  {
+    "original": [
+      "대외활동"
+    ],
+    "normalized": "대외활동"
+  },
+  {
+    "original": [
+      "자산평가"
+    ],
+    "normalized": "자산평가"
+  },
+  {
+    "original": [
+      "일자별"
+    ],
+    "normalized": "일자별"
+  },
+  {
+    "original": [
+      "OTC"
+    ],
+    "normalized": "OTC"
+  },
+  {
+    "original": [
+      "온누리HNC"
+    ],
+    "normalized": "온누리HNC"
+  },
+  {
+    "original": [
+      "딥러닝"
+    ],
+    "normalized": "딥러닝"
+  },
+  {
+    "original": [
+      "베이펫"
+    ],
+    "normalized": "베이펫"
+  },
+  {
+    "original": [
+      "홍대"
+    ],
+    "normalized": "홍대"
+  },
+  {
+    "original": [
+      "202101"
+    ],
+    "normalized": "202101"
+  },
+  {
+    "original": [
+      "전기"
+    ],
+    "normalized": "전기"
+  },
+  {
+    "original": [
+      "Micro"
+    ],
+    "normalized": "Micro"
+  },
+  {
+    "original": [
+      "관심사"
+    ],
+    "normalized": "관심사"
+  },
+  {
+    "original": [
+      "19년"
+    ],
+    "normalized": "19년"
+  },
+  {
+    "original": [
+      "의료수요"
+    ],
+    "normalized": "의료수요"
+  },
+  {
+    "original": [
+      "행태서비스"
+    ],
+    "normalized": "행태서비스"
+  },
+  {
+    "original": [
+      "지역상권"
+    ],
+    "normalized": "지역상권"
+  },
+  {
+    "original": [
+      "양산지역창폐업정보"
+    ],
+    "normalized": "양산지역창폐업정보"
+  },
+  {
+    "original": [
+      "방문"
+    ],
+    "normalized": "방문"
+  },
+  {
+    "original": [
+      "의장"
+    ],
+    "normalized": "의장"
+  },
+  {
+    "original": [
+      "syrup"
+    ],
+    "normalized": "syrup"
+  },
+  {
+    "original": [
+      "OLED"
+    ],
+    "normalized": "OLED"
+  },
+  {
+    "original": [
+      "출도착"
+    ],
+    "normalized": "출도착"
+  },
+  {
+    "original": [
+      "DRAM"
+    ],
+    "normalized": "DRAM"
+  },
+  {
+    "original": [
+      "방문데이터"
+    ],
+    "normalized": "방문데이터"
+  },
+  {
+    "original": [
+      "대상자"
+    ],
+    "normalized": "대상자"
+  },
+  {
+    "original": [
+      "처방내역"
+    ],
+    "normalized": "처방내역"
+  },
+  {
+    "original": [
+      "소비데이터"
+    ],
+    "normalized": "소비데이터"
+  },
+  {
+    "original": [
+      "충청북도"
+    ],
+    "normalized": "충청북도"
+  },
+  {
+    "original": [
+      "서비스사용행태"
+    ],
+    "normalized": "서비스사용행태"
+  },
+  {
+    "original": [
+      "강원도"
+    ],
+    "normalized": "강원도"
+  },
+  {
+    "original": [
+      "대구광역시"
+    ],
+    "normalized": "대구광역시"
+  },
+  {
+    "original": [
+      "서비스행태"
+    ],
+    "normalized": "서비스행태"
+  },
+  {
+    "original": [
+      "바이오"
+    ],
+    "normalized": "바이오"
+  },
+  {
+    "original": [
+      "로봇"
+    ],
+    "normalized": "로봇"
+  },
+  {
+    "original": [
+      "지역방문데이터"
+    ],
+    "normalized": "지역방문데이터"
+  },
+  {
+    "original": [
+      "전국상권"
+    ],
+    "normalized": "전국상권"
+  },
+  {
+    "original": [
+      "코리아크레딧뷰로"
+    ],
+    "normalized": "코리아크레딧뷰로"
+  },
+  {
+    "original": [
+      "의료수요파악"
+    ],
+    "normalized": "의료수요파악"
+  },
+  {
+    "original": [
+      "IOT"
+    ],
+    "normalized": "IOT"
+  },
+  {
+    "original": [
+      "서울특별시"
+    ],
+    "normalized": "서울특별시"
+  },
+  {
+    "original": [
+      "편의점"
+    ],
+    "normalized": "편의점"
+  },
+  {
+    "original": [
+      "나노"
+    ],
+    "normalized": "나노"
+  },
+  {
+    "original": [
+      "절약"
+    ],
+    "normalized": "절약"
+  },
+  {
+    "original": [
+      "보행"
+    ],
+    "normalized": "보행"
+  },
+  {
+    "original": [
+      "신용정보"
+    ],
+    "normalized": "신용정보"
+  },
+  {
+    "original": [
+      "연구용"
+    ],
+    "normalized": "연구용"
+  },
+  {
+    "original": [
+      "전국상권데이터"
+    ],
+    "normalized": "전국상권데이터"
+  },
+  {
+    "original": [
+      "상권방문"
+    ],
+    "normalized": "상권방문"
+  },
+  {
+    "original": [
+      "가명결합"
+    ],
+    "normalized": "가명결합"
+  },
+  {
+    "original": [
+      "환경특허"
+    ],
+    "normalized": "환경특허"
+  },
+  {
+    "original": [
+      "사업체"
+    ],
+    "normalized": "사업체"
+  },
+  {
+    "original": [
+      "유입인구"
+    ],
+    "normalized": "유입인구"
+  },
+  {
+    "original": [
+      "세라믹"
+    ],
+    "normalized": "세라믹"
+  },
+  {
+    "original": [
+      "segmentation"
+    ],
+    "normalized": "segmentation"
+  },
+  {
+    "original": [
+      "인기"
+    ],
+    "normalized": "인기"
+  },
+  {
+    "original": [
+      "중년"
+    ],
+    "normalized": "중년"
+  },
+  {
+    "original": [
+      "신용카드"
+    ],
+    "normalized": "신용카드"
+  },
+  {
+    "original": [
+      "12월"
+    ],
+    "normalized": "12월"
+  },
+  {
+    "original": [
+      "시니어"
+    ],
+    "normalized": "시니어"
+  },
+  {
+    "original": [
+      "의료"
+    ],
+    "normalized": "의료"
+  },
+  {
+    "original": [
+      "자율주행"
+    ],
+    "normalized": "자율주행"
+  },
+  {
+    "original": [
+      "무료"
+    ],
+    "normalized": "무료"
+  },
+  {
+    "original": [
+      "긍부정"
+    ],
+    "normalized": "긍부정"
+  },
+  {
+    "original": [
+      "ML"
+    ],
+    "normalized": "ML"
+  },
+  {
+    "original": [
+      "특허만료"
+    ],
+    "normalized": "특허만료"
+  },
+  {
+    "original": [
+      "소비자유형별소비"
+    ],
+    "normalized": "소비자유형별소비"
+  },
+  {
+    "original": [
+      "매핑"
+    ],
+    "normalized": "매핑"
+  },
+  {
+    "original": [
+      "에버랜드"
+    ],
+    "normalized": "에버랜드"
+  },
+  {
+    "original": [
+      "월별"
+    ],
+    "normalized": "월별"
+  },
+  {
+    "original": [
+      "연체"
+    ],
+    "normalized": "연체"
+  },
+  {
+    "original": [
+      "유플러스"
+    ],
+    "normalized": "유플러스"
+  },
+  {
+    "original": [
+      "충전"
+    ],
+    "normalized": "충전"
+  },
+  {
+    "original": [
+      "형태소"
+    ],
+    "normalized": "형태소"
+  },
+  {
+    "original": [
+      "자율"
+    ],
+    "normalized": "자율"
+  },
+  {
+    "original": [
+      "디스플레이"
+    ],
+    "normalized": "디스플레이"
+  },
+  {
+    "original": [
+      "주요미디어"
+    ],
+    "normalized": "주요미디어"
+  },
+  {
+    "original": [
+      "시계열"
+    ],
+    "normalized": "시계열"
+  },
+  {
+    "original": [
+      "주요"
+    ],
+    "normalized": "주요"
+  },
+  {
+    "original": [
+      "대안신용"
+    ],
+    "normalized": "대안신용"
+  },
+  {
+    "original": [
+      "탄소중립"
+    ],
+    "normalized": "탄소중립"
+  },
+  {
+    "original": [
+      "양산업종별창폐업정보"
+    ],
+    "normalized": "양산업종별창폐업정보"
+  },
+  {
+    "original": [
+      "자연어처리"
+    ],
+    "normalized": "자연어처리"
+  },
+  {
+    "original": [
+      "202304"
+    ],
+    "normalized": "202304"
+  },
+  {
+    "original": [
+      "자녀동거"
+    ],
+    "normalized": "자녀동거"
+  },
+  {
+    "original": [
+      "트렌드"
+    ],
+    "normalized": "트렌드"
+  },
+  {
+    "original": [
+      "이용금액"
+    ],
+    "normalized": "이용금액"
+  },
+  {
+    "original": [
+      "융합바이오"
+    ],
+    "normalized": "융합바이오"
+  },
+  {
+    "original": [
+      "대출"
+    ],
+    "normalized": "대출"
+  },
+  {
+    "original": [
+      "합정"
+    ],
+    "normalized": "합정"
+  },
+  {
+    "original": [
+      "행태"
+    ],
+    "normalized": "행태"
+  },
+  {
+    "original": [
+      "사용자성별정보"
+    ],
+    "normalized": "사용자성별정보"
+  },
+  {
+    "original": [
+      "지역방문"
+    ],
+    "normalized": "지역방문"
+  },
+  {
+    "original": [
+      "보건의료"
+    ],
+    "normalized": "보건의료"
+  },
+  {
+    "original": [
+      "SNS"
+    ],
+    "normalized": "SNS"
+  },
+  {
+    "original": [
+      "소비/상권"
+    ],
+    "normalized": "소비/상권"
+  },
+  {
+    "original": [
+      "공공데이터"
+    ],
+    "normalized": "공공데이터"
+  },
+  {
+    "original": [
+      "유통/마케팅"
+    ],
+    "normalized": "유통/마케팅"
+  },
+  {
+    "original": [
+      "통신/인구"
+    ],
+    "normalized": "통신/인구"
+  },
+  {
+    "original": [
+      "이커머스"
+    ],
+    "normalized": "이커머스"
+  },
+  {
+    "original": [
+      "N/A"
+    ],
+    "normalized": "N/A"
+  },
+  {
+    "original": [
+      "csv, json, md, txt, xml"
+    ],
+    "normalized": "csv, json, md, txt, xml"
+  },
+  {
+    "original": [
+      "csv, json"
+    ],
+    "normalized": "csv, json"
+  },
+  {
+    "original": [
+      "xml, txt, json, csv"
+    ],
+    "normalized": "xml, txt, json, csv"
+  },
+  {
+    "original": [
+      "xlsx, pdf"
+    ],
+    "normalized": "xlsx, pdf"
+  },
+  {
+    "original": [
+      "json, csv"
+    ],
+    "normalized": "json, csv"
+  },
+  {
+    "original": [
+      "txt"
+    ],
+    "normalized": "txt"
+  },
+  {
+    "original": [
+      "txt, md, json, csv"
+    ],
+    "normalized": "txt, md, json, csv"
+  },
+  {
+    "original": [
+      "zip, xlsx"
+    ],
+    "normalized": "zip, xlsx"
+  },
+  {
+    "original": [
+      "xlsx, csv, pdf"
+    ],
+    "normalized": "xlsx, csv, pdf"
+  },
+  {
+    "original": [
+      "xml, txt, md, json, csv"
+    ],
+    "normalized": "xml, txt, md, json, csv"
+  },
+  {
+    "original": [
+      "7z"
+    ],
+    "normalized": "7z"
+  },
+  {
+    "original": [
+      "csv, pdf, xlsx"
+    ],
+    "normalized": "csv, pdf, xlsx"
+  },
+  {
+    "original": [
+      "dat"
+    ],
+    "normalized": "dat"
+  },
+  {
+    "original": [
+      "pdf, xlsx, csv"
+    ],
+    "normalized": "pdf, xlsx, csv"
+  },
+  {
+    "original": [
+      "zip"
+    ],
+    "normalized": "zip"
+  },
+  {
+    "original": [
+      "N/A"
+    ],
+    "normalized": "N/A"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_32"
+    ],
+    "normalized": "F_AGE_SEG_32"
+  },
+  {
+    "original": [
+      "actn_nm"
+    ],
+    "normalized": "actn_nm"
+  },
+  {
+    "original": [
+      "LN_BAL_AMT_NBNK"
+    ],
+    "normalized": "LN_BAL_AMT_NBNK"
+  },
+  {
+    "original": [
+      "ADSTRD_NM"
+    ],
+    "normalized": "ADSTRD_NM"
+  },
+  {
+    "original": [
+      "ONHS_FLAG"
+    ],
+    "normalized": "ONHS_FLAG"
+  },
+  {
+    "original": [
+      "CASH_SVC_SUE_AMT"
+    ],
+    "normalized": "CASH_SVC_SUE_AMT"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG9"
+    ],
+    "normalized": "PET_HSE_SEG9"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_11"
+    ],
+    "normalized": "F_AGE_SEG_11"
+  },
+  {
+    "original": [
+      "item_name"
+    ],
+    "normalized": "item_name"
+  },
+  {
+    "original": [
+      "EMD_NM"
+    ],
+    "normalized": "EMD_NM"
+  },
+  {
+    "original": [
+      "DATE"
+    ],
+    "normalized": "DATE"
+  },
+  {
+    "original": [
+      "GRDH_CD"
+    ],
+    "normalized": "GRDH_CD"
+  },
+  {
+    "original": [
+      "LSP_USE_AMT"
+    ],
+    "normalized": "LSP_USE_AMT"
+  },
+  {
+    "original": [
+      "NEU_TRFIC_CT"
+    ],
+    "normalized": "NEU_TRFIC_CT"
+  },
+  {
+    "original": [
+      "LN_BAL_AMT_BNK"
+    ],
+    "normalized": "LN_BAL_AMT_BNK"
+  },
+  {
+    "original": [
+      "CARD_HLDR_CT"
+    ],
+    "normalized": "CARD_HLDR_CT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_51"
+    ],
+    "normalized": "F_AGE_SEG_51"
+  },
+  {
+    "original": [
+      "CTGG_NM"
+    ],
+    "normalized": "CTGG_NM"
+  },
+  {
+    "original": [
+      "POP_CT"
+    ],
+    "normalized": "POP_CT"
+  },
+  {
+    "original": [
+      "HSE_SEG8"
+    ],
+    "normalized": "HSE_SEG8"
+  },
+  {
+    "original": [
+      "상품판매금액"
+    ],
+    "normalized": "상품판매금액"
+  },
+  {
+    "original": [
+      "LN_BAL_CNT"
+    ],
+    "normalized": "LN_BAL_CNT"
+  },
+  {
+    "original": [
+      "HSE_SEG4"
+    ],
+    "normalized": "HSE_SEG4"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_00"
+    ],
+    "normalized": "M_AGE_SEG_00"
+  },
+  {
+    "original": [
+      "AGGR_CD"
+    ],
+    "normalized": "AGGR_CD"
+  },
+  {
+    "original": [
+      "상품판매수"
+    ],
+    "normalized": "상품판매수"
+  },
+  {
+    "original": [
+      "TOT_ASST_EVAL_AMT"
+    ],
+    "normalized": "TOT_ASST_EVAL_AMT"
+  },
+  {
+    "original": [
+      "tdar_id"
+    ],
+    "normalized": "tdar_id"
+  },
+  {
+    "original": [
+      "HSE_SEG7"
+    ],
+    "normalized": "HSE_SEG7"
+  },
+  {
+    "original": [
+      "INS_USE_CSTMR_CNT"
+    ],
+    "normalized": "INS_USE_CSTMR_CNT"
+  },
+  {
+    "original": [
+      "AVG_ARR_AMT"
+    ],
+    "normalized": "AVG_ARR_AMT"
+  },
+  {
+    "original": [
+      "MANAGE02_CNT"
+    ],
+    "normalized": "MANAGE02_CNT"
+  },
+  {
+    "original": [
+      "AVE_INS_USE_AMT"
+    ],
+    "normalized": "AVE_INS_USE_AMT"
+  },
+  {
+    "original": [
+      "lgdng_nm"
+    ],
+    "normalized": "lgdng_nm"
+  },
+  {
+    "original": [
+      "BLCK_DV_CD"
+    ],
+    "normalized": "BLCK_DV_CD"
+  },
+  {
+    "original": [
+      "Neg_PV"
+    ],
+    "normalized": "Neg_PV"
+  },
+  {
+    "original": [
+      "ONW_HOUS_RATIO"
+    ],
+    "normalized": "ONW_HOUS_RATIO"
+  },
+  {
+    "original": [
+      "CUST_NO"
+    ],
+    "normalized": "CUST_NO"
+  },
+  {
+    "original": [
+      "LSP_USE_CSTMR_CNT"
+    ],
+    "normalized": "LSP_USE_CSTMR_CNT"
+  },
+  {
+    "original": [
+      "item_len"
+    ],
+    "normalized": "item_len"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_00"
+    ],
+    "normalized": "F_AGE_SEG_00"
+  },
+  {
+    "original": [
+      "APT_RES_RATIO"
+    ],
+    "normalized": "APT_RES_RATIO"
+  },
+  {
+    "original": [
+      "tdar_nm"
+    ],
+    "normalized": "tdar_nm"
+  },
+  {
+    "original": [
+      "YEAR"
+    ],
+    "normalized": "YEAR"
+  },
+  {
+    "original": [
+      "utc_basic_time"
+    ],
+    "normalized": "utc_basic_time"
+  },
+  {
+    "original": [
+      "DCSN_YR_INCOM_AMT"
+    ],
+    "normalized": "DCSN_YR_INCOM_AMT"
+  },
+  {
+    "original": [
+      "상품대분류"
+    ],
+    "normalized": "상품대분류"
+  },
+  {
+    "original": [
+      "NET_ASST_AMT"
+    ],
+    "normalized": "NET_ASST_AMT"
+  },
+  {
+    "original": [
+      "PROP_RT"
+    ],
+    "normalized": "PROP_RT"
+  },
+  {
+    "original": [
+      "CARD_USE_CSTMR_CNT"
+    ],
+    "normalized": "CARD_USE_CSTMR_CNT"
+  },
+  {
+    "original": [
+      "HIGHEND_RT"
+    ],
+    "normalized": "HIGHEND_RT"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG4"
+    ],
+    "normalized": "PET_HSE_SEG4"
+  },
+  {
+    "original": [
+      "AVG_CARD_LMT_AMT"
+    ],
+    "normalized": "AVG_CARD_LMT_AMT"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG3"
+    ],
+    "normalized": "PET_HSE_SEG3"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG7"
+    ],
+    "normalized": "PET_HSE_SEG7"
+  },
+  {
+    "original": [
+      "log_date"
+    ],
+    "normalized": "log_date"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_42"
+    ],
+    "normalized": "M_AGE_SEG_42"
+  },
+  {
+    "original": [
+      "상품소분류"
+    ],
+    "normalized": "상품소분류"
+  },
+  {
+    "original": [
+      "POS_TRFIC_CT"
+    ],
+    "normalized": "POS_TRFIC_CT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_31"
+    ],
+    "normalized": "F_AGE_SEG_31"
+  },
+  {
+    "original": [
+      "sexd_cd"
+    ],
+    "normalized": "sexd_cd"
+  },
+  {
+    "original": [
+      "JRNO_ENC"
+    ],
+    "normalized": "JRNO_ENC"
+  },
+  {
+    "original": [
+      "HSE_SEG2"
+    ],
+    "normalized": "HSE_SEG2"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG5"
+    ],
+    "normalized": "PET_HSE_SEG5"
+  },
+  {
+    "original": [
+      "AGE"
+    ],
+    "normalized": "AGE"
+  },
+  {
+    "original": [
+      "상품대분류카테고리명"
+    ],
+    "normalized": "상품대분류카테고리명"
+  },
+  {
+    "original": [
+      "결제건수"
+    ],
+    "normalized": "결제건수"
+  },
+  {
+    "original": [
+      "aggrd_cd"
+    ],
+    "normalized": "aggrd_cd"
+  },
+  {
+    "original": [
+      "CAT01_CD"
+    ],
+    "normalized": "CAT01_CD"
+  },
+  {
+    "original": [
+      "NEW_CNT"
+    ],
+    "normalized": "NEW_CNT"
+  },
+  {
+    "original": [
+      "fmal_vstr_uv_ct"
+    ],
+    "normalized": "fmal_vstr_uv_ct"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG2"
+    ],
+    "normalized": "PET_HSE_SEG2"
+  },
+  {
+    "original": [
+      "온누리상품중분류카테고리명"
+    ],
+    "normalized": "온누리상품중분류카테고리명"
+  },
+  {
+    "original": [
+      "TRFIC_CT"
+    ],
+    "normalized": "TRFIC_CT"
+  },
+  {
+    "original": [
+      "제품명"
+    ],
+    "normalized": "제품명"
+  },
+  {
+    "original": [
+      "lgdng_cd"
+    ],
+    "normalized": "lgdng_cd"
+  },
+  {
+    "original": [
+      "SPL_YN"
+    ],
+    "normalized": "SPL_YN"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_62"
+    ],
+    "normalized": "M_AGE_SEG_62"
+  },
+  {
+    "original": [
+      "AVE_LSP_USE_AMT"
+    ],
+    "normalized": "AVE_LSP_USE_AMT"
+  },
+  {
+    "original": [
+      "INDTY_SCLS_NM"
+    ],
+    "normalized": "INDTY_SCLS_NM"
+  },
+  {
+    "original": [
+      "SIGNGU_NM"
+    ],
+    "normalized": "SIGNGU_NM"
+  },
+  {
+    "original": [
+      "상품명"
+    ],
+    "normalized": "상품명"
+  },
+  {
+    "original": [
+      "RE_DEBT_AMT"
+    ],
+    "normalized": "RE_DEBT_AMT"
+  },
+  {
+    "original": [
+      "나이"
+    ],
+    "normalized": "나이"
+  },
+  {
+    "original": [
+      "﻿tdar_id"
+    ],
+    "normalized": "﻿tdar_id"
+  },
+  {
+    "original": [
+      "CARD_USE_AMT"
+    ],
+    "normalized": "CARD_USE_AMT"
+  },
+  {
+    "original": [
+      "상품판매수량"
+    ],
+    "normalized": "상품판매수량"
+  },
+  {
+    "original": [
+      "ADMI_NM"
+    ],
+    "normalized": "ADMI_NM"
+  },
+  {
+    "original": [
+      "rank"
+    ],
+    "normalized": "rank"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_32"
+    ],
+    "normalized": "M_AGE_SEG_32"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_21"
+    ],
+    "normalized": "M_AGE_SEG_21"
+  },
+  {
+    "original": [
+      "CAT03_CD"
+    ],
+    "normalized": "CAT03_CD"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_31"
+    ],
+    "normalized": "M_AGE_SEG_31"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_41"
+    ],
+    "normalized": "M_AGE_SEG_41"
+  },
+  {
+    "original": [
+      "PLU_HOUS_RATIO"
+    ],
+    "normalized": "PLU_HOUS_RATIO"
+  },
+  {
+    "original": [
+      "actn_rat"
+    ],
+    "normalized": "actn_rat"
+  },
+  {
+    "original": [
+      "TITLE"
+    ],
+    "normalized": "TITLE"
+  },
+  {
+    "original": [
+      "MONTH"
+    ],
+    "normalized": "MONTH"
+  },
+  {
+    "original": [
+      "결제금액"
+    ],
+    "normalized": "결제금액"
+  },
+  {
+    "original": [
+      "TRFIC_OCC_DT"
+    ],
+    "normalized": "TRFIC_OCC_DT"
+  },
+  {
+    "original": [
+      "CORP_REP_RT"
+    ],
+    "normalized": "CORP_REP_RT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_41"
+    ],
+    "normalized": "F_AGE_SEG_41"
+  },
+  {
+    "original": [
+      "상품판매단가"
+    ],
+    "normalized": "상품판매단가"
+  },
+  {
+    "original": [
+      "OVSEA_CSMP_AMT"
+    ],
+    "normalized": "OVSEA_CSMP_AMT"
+  },
+  {
+    "original": [
+      "CAT_NM"
+    ],
+    "normalized": "CAT_NM"
+  },
+  {
+    "original": [
+      "HSE_SEG3"
+    ],
+    "normalized": "HSE_SEG3"
+  },
+  {
+    "original": [
+      "MEGA_NM"
+    ],
+    "normalized": "MEGA_NM"
+  },
+  {
+    "original": [
+      "HSE_SEG5"
+    ],
+    "normalized": "HSE_SEG5"
+  },
+  {
+    "original": [
+      "﻿city_nm"
+    ],
+    "normalized": "﻿city_nm"
+  },
+  {
+    "original": [
+      "DLQ_5"
+    ],
+    "normalized": "DLQ_5"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_22"
+    ],
+    "normalized": "M_AGE_SEG_22"
+  },
+  {
+    "original": [
+      "COM_CODE"
+    ],
+    "normalized": "COM_CODE"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_52"
+    ],
+    "normalized": "F_AGE_SEG_52"
+  },
+  {
+    "original": [
+      "상품중분류"
+    ],
+    "normalized": "상품중분류"
+  },
+  {
+    "original": [
+      "주문번호"
+    ],
+    "normalized": "주문번호"
+  },
+  {
+    "original": [
+      "actn_date"
+    ],
+    "normalized": "actn_date"
+  },
+  {
+    "original": [
+      "NO"
+    ],
+    "normalized": "NO"
+  },
+  {
+    "original": [
+      "OPN_CNT"
+    ],
+    "normalized": "OPN_CNT"
+  },
+  {
+    "original": [
+      "CRD_SLE_USE_AMT"
+    ],
+    "normalized": "CRD_SLE_USE_AMT"
+  },
+  {
+    "original": [
+      "TEXT"
+    ],
+    "normalized": "TEXT"
+  },
+  {
+    "original": [
+      "END_DATE"
+    ],
+    "normalized": "END_DATE"
+  },
+  {
+    "original": [
+      "HSHD_NO_ENC"
+    ],
+    "normalized": "HSHD_NO_ENC"
+  },
+  {
+    "original": [
+      "SEXD_CD"
+    ],
+    "normalized": "SEXD_CD"
+  },
+  {
+    "original": [
+      "MED_ARR_AMT"
+    ],
+    "normalized": "MED_ARR_AMT"
+  },
+  {
+    "original": [
+      "AVG_LN_BLC"
+    ],
+    "normalized": "AVG_LN_BLC"
+  },
+  {
+    "original": [
+      "TOT_REG_1_CD"
+    ],
+    "normalized": "TOT_REG_1_CD"
+  },
+  {
+    "original": [
+      "상품중분류카테고리명"
+    ],
+    "normalized": "상품중분류카테고리명"
+  },
+  {
+    "original": [
+      "INSTL_USE_AMT"
+    ],
+    "normalized": "INSTL_USE_AMT"
+  },
+  {
+    "original": [
+      "CD_BAL_TOT"
+    ],
+    "normalized": "CD_BAL_TOT"
+  },
+  {
+    "original": [
+      "JOBG_CD"
+    ],
+    "normalized": "JOBG_CD"
+  },
+  {
+    "original": [
+      "srchw"
+    ],
+    "normalized": "srchw"
+  },
+  {
+    "original": [
+      "TOT_HSE_SEG"
+    ],
+    "normalized": "TOT_HSE_SEG"
+  },
+  {
+    "original": [
+      "ADSTRD_CD"
+    ],
+    "normalized": "ADSTRD_CD"
+  },
+  {
+    "original": [
+      "CLSD_CNT"
+    ],
+    "normalized": "CLSD_CNT"
+  },
+  {
+    "original": [
+      "FRGN_CAR_RT"
+    ],
+    "normalized": "FRGN_CAR_RT"
+  },
+  {
+    "original": [
+      "ALL_LN_BLC"
+    ],
+    "normalized": "ALL_LN_BLC"
+  },
+  {
+    "original": [
+      "BLCK_SP_CD"
+    ],
+    "normalized": "BLCK_SP_CD"
+  },
+  {
+    "original": [
+      "LN_BAL_AMT_CRDT"
+    ],
+    "normalized": "LN_BAL_AMT_CRDT"
+  },
+  {
+    "original": [
+      "DLQ_30"
+    ],
+    "normalized": "DLQ_30"
+  },
+  {
+    "original": [
+      "city_nm"
+    ],
+    "normalized": "city_nm"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_11"
+    ],
+    "normalized": "M_AGE_SEG_11"
+  },
+  {
+    "original": [
+      "lngt"
+    ],
+    "normalized": "lngt"
+  },
+  {
+    "original": [
+      "LN_BAL_AMT_HOUS"
+    ],
+    "normalized": "LN_BAL_AMT_HOUS"
+  },
+  {
+    "original": [
+      "AVG_ICYR_ICM"
+    ],
+    "normalized": "AVG_ICYR_ICM"
+  },
+  {
+    "original": [
+      "TOT_ASST_AMT"
+    ],
+    "normalized": "TOT_ASST_AMT"
+  },
+  {
+    "original": [
+      "SIGNGU_CD"
+    ],
+    "normalized": "SIGNGU_CD"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_61"
+    ],
+    "normalized": "M_AGE_SEG_61"
+  },
+  {
+    "original": [
+      "ALL_ARR_HLDR_CT"
+    ],
+    "normalized": "ALL_ARR_HLDR_CT"
+  },
+  {
+    "original": [
+      "HSE_SEG6"
+    ],
+    "normalized": "HSE_SEG6"
+  },
+  {
+    "original": [
+      "거래일자"
+    ],
+    "normalized": "거래일자"
+  },
+  {
+    "original": [
+      "상품소분류카테고리명"
+    ],
+    "normalized": "상품소분류카테고리명"
+  },
+  {
+    "original": [
+      "SIDO_CD"
+    ],
+    "normalized": "SIDO_CD"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_62"
+    ],
+    "normalized": "F_AGE_SEG_62"
+  },
+  {
+    "original": [
+      "제품코드"
+    ],
+    "normalized": "제품코드"
+  },
+  {
+    "original": [
+      "HSE_SEG1"
+    ],
+    "normalized": "HSE_SEG1"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_61"
+    ],
+    "normalized": "F_AGE_SEG_61"
+  },
+  {
+    "original": [
+      "AVG_LN_CONT"
+    ],
+    "normalized": "AVG_LN_CONT"
+  },
+  {
+    "original": [
+      "SIDO_NM"
+    ],
+    "normalized": "SIDO_NM"
+  },
+  {
+    "original": [
+      "INCOME_3PER_RT"
+    ],
+    "normalized": "INCOME_3PER_RT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_70"
+    ],
+    "normalized": "F_AGE_SEG_70"
+  },
+  {
+    "original": [
+      "CTY_NM"
+    ],
+    "normalized": "CTY_NM"
+  },
+  {
+    "original": [
+      "tot_vstr_uv_ct"
+    ],
+    "normalized": "tot_vstr_uv_ct"
+  },
+  {
+    "original": [
+      "DEPOSIT_AMT"
+    ],
+    "normalized": "DEPOSIT_AMT"
+  },
+  {
+    "original": [
+      "LN_BAL_AMT_TOT"
+    ],
+    "normalized": "LN_BAL_AMT_TOT"
+  },
+  {
+    "original": [
+      "﻿부산/경남 지역 유동인구 데이터"
+    ],
+    "normalized": "﻿부산/경남 지역 유동인구 데이터"
+  },
+  {
+    "original": [
+      "SEX_CD"
+    ],
+    "normalized": "SEX_CD"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_12"
+    ],
+    "normalized": "F_AGE_SEG_12"
+  },
+  {
+    "original": [
+      "part_date"
+    ],
+    "normalized": "part_date"
+  },
+  {
+    "original": [
+      "HSE_SEG9"
+    ],
+    "normalized": "HSE_SEG9"
+  },
+  {
+    "original": [
+      "NEG_TRFIC_CT"
+    ],
+    "normalized": "NEG_TRFIC_CT"
+  },
+  {
+    "original": [
+      "AVG_ICYR_AMT"
+    ],
+    "normalized": "AVG_ICYR_AMT"
+  },
+  {
+    "original": [
+      "Pos_PV"
+    ],
+    "normalized": "Pos_PV"
+  },
+  {
+    "original": [
+      "AVG_ARR_DACT"
+    ],
+    "normalized": "AVG_ARR_DACT"
+  },
+  {
+    "original": [
+      "AVG_CARD_CNT"
+    ],
+    "normalized": "AVG_CARD_CNT"
+  },
+  {
+    "original": [
+      "우편번호"
+    ],
+    "normalized": "우편번호"
+  },
+  {
+    "original": [
+      "AVG_ARR_CONT"
+    ],
+    "normalized": "AVG_ARR_CONT"
+  },
+  {
+    "original": [
+      "STD_YM BLCK_SP_CD CTPV_CD CTPV_NM AVG_ICYR_AMT MED_ICYR_AMT POP_CT"
+    ],
+    "normalized": "STD_YM BLCK_SP_CD CTPV_CD CTPV_NM AVG_ICYR_AMT MED_ICYR_AMT POP_CT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_22"
+    ],
+    "normalized": "F_AGE_SEG_22"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG8"
+    ],
+    "normalized": "PET_HSE_SEG8"
+  },
+  {
+    "original": [
+      "ADM_DONG_NM"
+    ],
+    "normalized": "ADM_DONG_NM"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_12"
+    ],
+    "normalized": "M_AGE_SEG_12"
+  },
+  {
+    "original": [
+      "CTGG_CD"
+    ],
+    "normalized": "CTGG_CD"
+  },
+  {
+    "original": [
+      "MANAGE04_CNT"
+    ],
+    "normalized": "MANAGE04_CNT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_42"
+    ],
+    "normalized": "F_AGE_SEG_42"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG6"
+    ],
+    "normalized": "PET_HSE_SEG6"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_70"
+    ],
+    "normalized": "M_AGE_SEG_70"
+  },
+  {
+    "original": [
+      "RANK"
+    ],
+    "normalized": "RANK"
+  },
+  {
+    "original": [
+      "Neu_PV"
+    ],
+    "normalized": "Neu_PV"
+  },
+  {
+    "original": [
+      "CTPV_NM"
+    ],
+    "normalized": "CTPV_NM"
+  },
+  {
+    "original": [
+      "HOUS_HLD_CNT"
+    ],
+    "normalized": "HOUS_HLD_CNT"
+  },
+  {
+    "original": [
+      "vst_date"
+    ],
+    "normalized": "vst_date"
+  },
+  {
+    "original": [
+      "CAT02_CD"
+    ],
+    "normalized": "CAT02_CD"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_52"
+    ],
+    "normalized": "M_AGE_SEG_52"
+  },
+  {
+    "original": [
+      "MANAGE01_CNT"
+    ],
+    "normalized": "MANAGE01_CNT"
+  },
+  {
+    "original": [
+      "sexd_rat"
+    ],
+    "normalized": "sexd_rat"
+  },
+  {
+    "original": [
+      "All_PV"
+    ],
+    "normalized": "All_PV"
+  },
+  {
+    "original": [
+      "M_AGE_SEG_51"
+    ],
+    "normalized": "M_AGE_SEG_51"
+  },
+  {
+    "original": [
+      "SRCH_KWRD_NM"
+    ],
+    "normalized": "SRCH_KWRD_NM"
+  },
+  {
+    "original": [
+      "MANAGE03_CNT"
+    ],
+    "normalized": "MANAGE03_CNT"
+  },
+  {
+    "original": [
+      "온누리상품소분류카테고리명"
+    ],
+    "normalized": "온누리상품소분류카테고리명"
+  },
+  {
+    "original": [
+      "AGGRD_CD"
+    ],
+    "normalized": "AGGRD_CD"
+  },
+  {
+    "original": [
+      "온누리상품대분류카테고리명"
+    ],
+    "normalized": "온누리상품대분류카테고리명"
+  },
+  {
+    "original": [
+      "BGN_DATE"
+    ],
+    "normalized": "BGN_DATE"
+  },
+  {
+    "original": [
+      "CTPV_CD"
+    ],
+    "normalized": "CTPV_CD"
+  },
+  {
+    "original": [
+      "BIZ_CNT"
+    ],
+    "normalized": "BIZ_CNT"
+  },
+  {
+    "original": [
+      "F_AGE_SEG_21"
+    ],
+    "normalized": "F_AGE_SEG_21"
+  },
+  {
+    "original": [
+      "mal_vstr_uv_ct"
+    ],
+    "normalized": "mal_vstr_uv_ct"
+  },
+  {
+    "original": [
+      "LN_HLDR_CT"
+    ],
+    "normalized": "LN_HLDR_CT"
+  },
+  {
+    "original": [
+      "ID"
+    ],
+    "normalized": "ID"
+  },
+  {
+    "original": [
+      "PET_HSE_SEG1"
+    ],
+    "normalized": "PET_HSE_SEG1"
+  },
+  {
+    "original": [
+      "la"
+    ],
+    "normalized": "la"
+  },
+  {
+    "original": [
+      "MED_ICYR_AMT"
+    ],
+    "normalized": "MED_ICYR_AMT"
+  }
+]
