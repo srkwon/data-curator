@@ -1,0 +1,427 @@
+{
+  "category": [
+    {
+      "original": [
+        "카드,생활",
+        "카드,생활,"
+      ],
+      "normalized": "카드,생활"
+    },
+    {
+      "original": [
+        "카드",
+        "카드,"
+      ],
+      "normalized": "카드"
+    },
+    {
+      "original": [
+        "신용",
+        "신용,"
+      ],
+      "normalized": "신용"
+    },
+    {
+      "original": [
+        "생활",
+        "생활,",
+        "생활,,"
+      ],
+      "normalized": "생활"
+    },
+    {
+      "original": [
+        "은행",
+        "은행,",
+        "은행,,"
+      ],
+      "normalized": "은행"
+    },
+    {
+      "original": [
+        "기업",
+        "기업,"
+      ],
+      "normalized": "기업"
+    },
+    {
+      "original": [
+        "카드,신용",
+        "카드,신용,"
+      ],
+      "normalized": "카드,신용"
+    },
+    {
+      "original": [
+        "은행,생활",
+        "은행,생활,"
+      ],
+      "normalized": "은행,생활"
+    },
+    {
+      "original": [
+        "은행,부동산",
+        "은행,부동산,"
+      ],
+      "normalized": "은행,부동산"
+    },
+    {
+      "original": [
+        "신용,기업",
+        "신용,기업,"
+      ],
+      "normalized": "신용,기업"
+    },
+    {
+      "original": [
+        "통신,보안",
+        "통신,보안,"
+      ],
+      "normalized": "통신,보안"
+    },
+    {
+      "original": [
+        "카드,통신",
+        "카드,통신,"
+      ],
+      "normalized": "카드,통신"
+    },
+    {
+      "original": [
+        "신용,생활",
+        "신용,생활,"
+      ],
+      "normalized": "신용,생활"
+    },
+    {
+      "original": [
+        "은행,카드",
+        "은행,카드,"
+      ],
+      "normalized": "은행,카드"
+    },
+    {
+      "original": [
+        "은행,증권",
+        "은행,증권,"
+      ],
+      "normalized": "은행,증권"
+    }
+  ],
+  "format": [
+    {
+      "original": [
+        "CSV",
+        "csv"
+      ],
+      "normalized": "CSV"
+    }
+  ],
+  "columns": [
+    {
+      "original": [
+        "STD_YM",
+        "﻿STD_YM"
+      ],
+      "normalized": "STD_YM"
+    },
+    {
+      "original": [
+        "SEXD_CD",
+        "sexd_cd"
+      ],
+      "normalized": "SEXD_CD"
+    },
+    {
+      "original": [
+        "AGGRD_CD",
+        "aggrd_cd"
+      ],
+      "normalized": "aggrd_cd"
+    },
+    {
+      "original": [
+        "AGE",
+        "age"
+      ],
+      "normalized": "AGE"
+    },
+    {
+      "original": [
+        "MEGA_NM",
+        "mega_nm"
+      ],
+      "normalized": "mega_nm"
+    },
+    {
+      "original": [
+        "시도명",
+        "﻿시도명"
+      ],
+      "normalized": "시도명"
+    },
+    {
+      "original": [
+        "city_nm",
+        "﻿city_nm"
+      ],
+      "normalized": "city_nm"
+    },
+    {
+      "original": [
+        "tdar_id",
+        "﻿tdar_id"
+      ],
+      "normalized": "tdar_id"
+    },
+    {
+      "original": [
+        "RANK",
+        "rank"
+      ],
+      "normalized": "RANK"
+    },
+    {
+      "original": [
+        "ID",
+        "_id"
+      ],
+      "normalized": "ID"
+    },
+    {
+      "original": [
+        "NO",
+        "No",
+        "﻿NO"
+      ],
+      "normalized": "No"
+    },
+    {
+      "original": [
+        "기준년월",
+        "﻿기준년월"
+      ],
+      "normalized": "기준년월"
+    },
+    {
+      "original": [
+        "ana_mgpo_ nm",
+        "ana_mgpo_nm"
+      ],
+      "normalized": "ana_mgpo_nm"
+    },
+    {
+      "original": [
+        "업종군",
+        "﻿업종군"
+      ],
+      "normalized": "업종군"
+    },
+    {
+      "original": [
+        "광역시도명",
+        "﻿광역시도명"
+      ],
+      "normalized": "광역시도명"
+    },
+    {
+      "original": [
+        "이용금액_전ㅁ체",
+        "이용금액_전체"
+      ],
+      "normalized": "이용금액_전체"
+    },
+    {
+      "original": [
+        "시도/업종군",
+        "﻿시도/업종군"
+      ],
+      "normalized": "시도/업종군"
+    },
+    {
+      "original": [
+        "이용건수",
+        "이용건수 (%)",
+        "이용건수(%)"
+      ],
+      "normalized": "이용건수"
+    },
+    {
+      "original": [
+        "이용금액",
+        "이용금액(%)"
+      ],
+      "normalized": "이용금액"
+    },
+    {
+      "original": [
+        "이용액",
+        "이용액 (%)",
+        "이용액(%)"
+      ],
+      "normalized": "이용액"
+    },
+    {
+      "original": [
+        "SEX",
+        "sex"
+      ],
+      "normalized": "sex"
+    },
+    {
+      "original": [
+        "구분",
+        "﻿구분"
+      ],
+      "normalized": "구분"
+    },
+    {
+      "original": [
+        "CNT",
+        "cnt"
+      ],
+      "normalized": "CNT"
+    },
+    {
+      "original": [
+        "기준월",
+        "﻿기준월"
+      ],
+      "normalized": "기준월"
+    },
+    {
+      "original": [
+        "이용률",
+        "이용률(%)"
+      ],
+      "normalized": "이용률"
+    },
+    {
+      "original": [
+        "업종_소분류",
+        "업종소분류"
+      ],
+      "normalized": "업종소분류"
+    },
+    {
+      "original": [
+        "업종_대분류",
+        "업종대분류"
+      ],
+      "normalized": "업종대분류"
+    },
+    {
+      "original": [
+        "업종_중분류",
+        "업종중분류"
+      ],
+      "normalized": "업종중분류"
+    },
+    {
+      "original": [
+        "평균 가격",
+        "평균가격"
+      ],
+      "normalized": "평균가격"
+    },
+    {
+      "original": [
+        "주중/주말",
+        "주중_주말"
+      ],
+      "normalized": "주중_주말"
+    },
+    {
+      "original": [
+        "전용면적(평)",
+        "전용면적_평"
+      ],
+      "normalized": "전용면적_평"
+    },
+    {
+      "original": [
+        "층_번호",
+        "층번호"
+      ],
+      "normalized": "층번호"
+    },
+    {
+      "original": [
+        "가맹점 시군구명",
+        "가맹점_시군구명",
+        "가맹점시군구명"
+      ],
+      "normalized": "가맹점시군구명"
+    },
+    {
+      "original": [
+        "가맹점_업종 대분류",
+        "가맹점_업종 대분류)"
+      ],
+      "normalized": "가맹점_업종 대분류"
+    },
+    {
+      "original": [
+        "가맹점_업종 소분류",
+        "가맹점_업종 소분류ㅍ"
+      ],
+      "normalized": "가맹점_업종 소분류"
+    },
+    {
+      "original": [
+        "페르소나 유형",
+        "페르소나유형"
+      ],
+      "normalized": "페르소나유형"
+    },
+    {
+      "original": [
+        "주중_주말 구분",
+        "주중_주말구분"
+      ],
+      "normalized": "주중_주말구분"
+    },
+    {
+      "original": [
+        "신용위험평점 (평점)",
+        "신용위험평점(평점)"
+      ],
+      "normalized": "신용위험평점(평점)"
+    },
+    {
+      "original": [
+        "자산소득평가지수 (등급)",
+        "자산소득평가지수(등급)"
+      ],
+      "normalized": "자산소득평가지수(등급)"
+    },
+    {
+      "original": [
+        "고객 성별",
+        "고객성별"
+      ],
+      "normalized": "고객성별"
+    },
+    {
+      "original": [
+        "고객 연령대",
+        "고객연령대"
+      ],
+      "normalized": "고객연령대"
+    },
+    {
+      "original": [
+        "이용건수_201901 /이용건수_201901",
+        "이용건수_201901/이용건수_201901"
+      ],
+      "normalized": "이용건수_201901/이용건수_201901"
+    },
+    {
+      "original": [
+        "거래 건수",
+        "거래건수"
+      ],
+      "normalized": "거래건수"
+    }
+  ]
+}
